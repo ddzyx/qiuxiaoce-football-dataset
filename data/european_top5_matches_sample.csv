@@ -1,0 +1,201 @@
+fixture_id,date,season,league,home_team,away_team,fulltime_home_goals,fulltime_away_goals,halftime_home_goals,halftime_away_goals,result,referee,data_source
+1570367,2026-09-06T19:00:00+00:00,2026,La Liga,Espanyol,Sevilla,1,1,0,0,D,,https://www.qiuxiaoce.com
+1552751,2026-09-06T18:45:00+00:00,2026,Ligue 1,Marseille,Paris FC,2,3,1,2,A,C. Turpin,https://www.qiuxiaoce.com
+1550114,2026-09-06T18:45:00+00:00,2026,Serie A,Juventus,AC Milan,1,1,0,0,D,M. Mariani,https://www.qiuxiaoce.com
+1570363,2026-09-06T16:30:00+00:00,2026,La Liga,Alaves,Osasuna,5,2,2,0,H,,https://www.qiuxiaoce.com
+1570369,2026-09-06T16:30:00+00:00,2026,La Liga,Malaga,Levante,0,0,0,0,D,,https://www.qiuxiaoce.com
+1550108,2026-09-06T16:00:00+00:00,2026,Serie A,Bologna,Sassuolo,2,2,0,1,D,M. Di Bello,https://www.qiuxiaoce.com
+1557387,2026-09-06T15:30:00+00:00,2026,Premier League,Arsenal,Chelsea,2,1,1,1,H,C. Kavanagh,https://www.qiuxiaoce.com
+1575152,2026-09-06T15:30:00+00:00,2026,Bundesliga,Eintracht Frankfurt,FC Augsburg,1,4,1,0,A,D. Schlager,https://www.qiuxiaoce.com
+1552747,2026-09-06T15:15:00+00:00,2026,Ligue 1,Angers,Rennes,1,2,1,2,A,G. Kubler,https://www.qiuxiaoce.com
+1570371,2026-09-06T14:15:00+00:00,2026,La Liga,Valencia,Barcelona,0,5,0,2,A,,https://www.qiuxiaoce.com
+1575154,2026-09-06T13:30:00+00:00,2026,Bundesliga,Hamburger SV,FSV Mainz 05,0,5,0,2,A,T. Reichel,https://www.qiuxiaoce.com
+1550111,2026-09-06T13:00:00+00:00,2026,Serie A,Frosinone,Venezia,3,2,2,0,H,M. Perri,https://www.qiuxiaoce.com
+1552755,2026-09-06T13:00:00+00:00,2026,Ligue 1,Estac Troyes,Strasbourg,2,6,1,2,A,G. Paradis,https://www.qiuxiaoce.com
+1557390,2026-09-06T13:00:00+00:00,2026,Premier League,Everton,Manchester United,2,2,0,0,D,J. Brooks,https://www.qiuxiaoce.com
+1550115,2026-09-06T13:00:00+00:00,2026,Serie A,Parma,Monza,1,1,0,1,D,F. La Penna,https://www.qiuxiaoce.com
+1570372,2026-09-05T19:00:00+00:00,2026,La Liga,Villarreal,Deportivo La Coruna,2,3,1,1,A,,https://www.qiuxiaoce.com
+1550107,2026-09-05T18:45:00+00:00,2026,Serie A,AS Roma,Atalanta,2,1,0,0,H,A. Colombo,https://www.qiuxiaoce.com
+1552752,2026-09-05T18:45:00+00:00,2026,Ligue 1,Nice,Le Mans,1,1,1,1,D,J. Pignard,https://www.qiuxiaoce.com
+1552748,2026-09-05T18:45:00+00:00,2026,Ligue 1,Le Havre,Stade Brestois 29,1,2,0,1,A,M. Bollengier,https://www.qiuxiaoce.com
+1557392,2026-09-05T16:30:00+00:00,2026,Premier League,Hull City,Aston Villa,0,0,0,0,D,M. Oliver,https://www.qiuxiaoce.com
+1575156,2026-09-05T16:30:00+00:00,2026,Bundesliga,FC Schalke 04,Bayern München,0,0,0,0,D,R. Schroder,https://www.qiuxiaoce.com
+1570370,2026-09-05T16:30:00+00:00,2026,La Liga,Rayo Vallecano,Racing Santander,3,2,2,2,H,,https://www.qiuxiaoce.com
+1550113,2026-09-05T16:00:00+00:00,2026,Serie A,Inter,Napoli,3,2,0,0,H,S. Sozza,https://www.qiuxiaoce.com
+1552749,2026-09-05T15:15:00+00:00,2026,Ligue 1,Lens,Lorient,0,1,0,0,A,E. Wattellier,https://www.qiuxiaoce.com
+1570364,2026-09-05T14:15:00+00:00,2026,La Liga,Athletic Club,Atletico Madrid,3,0,0,0,H,,https://www.qiuxiaoce.com
+1557394,2026-09-05T14:00:00+00:00,2026,Premier League,Manchester City,Coventry,1,0,1,0,H,P. Tierney,https://www.qiuxiaoce.com
+1557389,2026-09-05T14:00:00+00:00,2026,Premier League,Brighton,Leeds,1,1,0,1,D,S. Attwell,https://www.qiuxiaoce.com
+1557391,2026-09-05T14:00:00+00:00,2026,Premier League,Fulham,Crystal Palace,2,3,2,1,A,S. Barrott,https://www.qiuxiaoce.com
+1557396,2026-09-05T14:00:00+00:00,2026,Premier League,Nottingham Forest,Tottenham,0,0,0,0,D,C. Pawson,https://www.qiuxiaoce.com
+1557388,2026-09-05T14:00:00+00:00,2026,Premier League,Brentford,Sunderland,1,1,0,0,D,T. Bramall,https://www.qiuxiaoce.com
+1575155,2026-09-05T13:30:00+00:00,2026,Bundesliga,Werder Bremen,RB Leipzig,3,1,1,0,H,B. Brand,https://www.qiuxiaoce.com
+1575150,2026-09-05T13:30:00+00:00,2026,Bundesliga,1899 Hoffenheim,Borussia Dortmund,2,3,1,0,A,M. Jollenbeck,https://www.qiuxiaoce.com
+1575151,2026-09-05T13:30:00+00:00,2026,Bundesliga,Bayer Leverkusen,Union Berlin,4,0,2,0,H,R. Braun,https://www.qiuxiaoce.com
+1575157,2026-09-05T13:30:00+00:00,2026,Bundesliga,SC Paderborn 07,SC Freiburg,0,1,0,1,A,M. Burda,https://www.qiuxiaoce.com
+1575153,2026-09-05T13:30:00+00:00,2026,Bundesliga,Borussia Mönchengladbach,SV Elversberg,3,4,2,1,A,M. Petersen,https://www.qiuxiaoce.com
+1550110,2026-09-05T13:00:00+00:00,2026,Serie A,Fiorentina,Torino,1,2,0,0,A,D. Massa,https://www.qiuxiaoce.com
+1557395,2026-09-05T11:30:00+00:00,2026,Premier League,Newcastle,Bournemouth,2,2,1,2,D,R. Jones,https://www.qiuxiaoce.com
+1552753,2026-09-04T19:05:00+00:00,2026,Ligue 1,Paris Saint Germain,Monaco,1,2,1,0,A,J. Brisard,https://www.qiuxiaoce.com
+1557393,2026-09-04T19:00:00+00:00,2026,Premier League,Ipswich,Liverpool,0,2,0,2,A,D. England,https://www.qiuxiaoce.com
+1570365,2026-09-04T19:00:00+00:00,2026,La Liga,Real Betis,Real Madrid,1,0,0,0,H,,https://www.qiuxiaoce.com
+1550112,2026-09-04T18:45:00+00:00,2026,Serie A,Genoa,Como,1,4,1,3,A,M. Guida,https://www.qiuxiaoce.com
+1575149,2026-09-04T18:30:00+00:00,2026,Bundesliga,VfB Stuttgart,1. FC Köln,4,1,1,0,H,C. Dingert,https://www.qiuxiaoce.com
+1552750,2026-09-04T17:00:00+00:00,2026,Ligue 1,Lyon,Auxerre,3,1,2,1,H,R. Buquet,https://www.qiuxiaoce.com
+1570392,2026-09-03T19:00:00+00:00,2026,La Liga,Real Sociedad,Celta Vigo,0,0,0,0,D,,https://www.qiuxiaoce.com
+1552754,2026-09-03T18:45:00+00:00,2026,Ligue 1,Toulouse,Lille,0,1,0,0,A,M. Vernice,https://www.qiuxiaoce.com
+1570354,2026-08-31T19:30:00+00:00,2026,La Liga,Barcelona,Rayo Vallecano,5,2,2,1,H,F. Maeso,https://www.qiuxiaoce.com
+1557377,2026-08-31T19:00:00+00:00,2026,Premier League,Aston Villa,Arsenal,0,1,0,0,A,J. Gillett,https://www.qiuxiaoce.com
+1550098,2026-08-31T18:45:00+00:00,2026,Serie A,Atalanta,Bologna,1,0,0,0,H,D. Doveri,https://www.qiuxiaoce.com
+1570358,2026-08-31T17:30:00+00:00,2026,La Liga,Osasuna,Getafe,1,0,1,0,H,J. A. Gonzalez Esteban,https://www.qiuxiaoce.com
+1550103,2026-08-31T16:30:00+00:00,2026,Serie A,Lecce,AS Roma,0,4,0,3,A,D. Chiffi,https://www.qiuxiaoce.com
+1570355,2026-08-30T19:30:00+00:00,2026,La Liga,Celta Vigo,Athletic Club,0,2,0,2,A,,https://www.qiuxiaoce.com
+1550099,2026-08-30T18:45:00+00:00,2026,Serie A,Cagliari,Inter,0,1,0,1,A,,https://www.qiuxiaoce.com
+1550102,2026-08-30T18:45:00+00:00,2026,Serie A,Lazio,Genoa,1,0,1,0,H,,https://www.qiuxiaoce.com
+1552742,2026-08-30T18:45:00+00:00,2026,Ligue 1,Monaco,Marseille,2,0,1,0,H,W. Delajod,https://www.qiuxiaoce.com
+1570356,2026-08-30T17:30:00+00:00,2026,La Liga,Deportivo La Coruna,Valencia,3,1,2,1,H,,https://www.qiuxiaoce.com
+1550105,2026-08-30T16:30:00+00:00,2026,Serie A,Napoli,Como,1,2,1,2,A,,https://www.qiuxiaoce.com
+1575141,2026-08-30T15:30:00+00:00,2026,Bundesliga,FC Augsburg,FC Schalke 04,3,0,1,0,H,S. Stegemann,https://www.qiuxiaoce.com
+1557384,2026-08-30T15:30:00+00:00,2026,Premier League,Manchester United,Ipswich,5,2,1,1,H,C. Pawson,https://www.qiuxiaoce.com
+1552744,2026-08-30T15:15:00+00:00,2026,Ligue 1,Rennes,Le Mans,3,2,2,1,H,R. Lissorgue,https://www.qiuxiaoce.com
+1570360,2026-08-30T15:00:00+00:00,2026,La Liga,Real Madrid,Malaga,4,0,3,0,H,,https://www.qiuxiaoce.com
+1575145,2026-08-30T13:30:00+00:00,2026,Bundesliga,SC Freiburg,Werder Bremen,4,1,2,0,H,D. Siebert,https://www.qiuxiaoce.com
+1552743,2026-08-30T13:00:00+00:00,2026,Ligue 1,Paris FC,Nice,3,0,1,0,H,J. Stinat,https://www.qiuxiaoce.com
+1557385,2026-08-30T13:00:00+00:00,2026,Premier League,Sunderland,Fulham,1,0,0,0,H,M. Salisbury,https://www.qiuxiaoce.com
+1557379,2026-08-30T13:00:00+00:00,2026,Premier League,Chelsea,Brighton,4,3,3,1,H,M. Oliver,https://www.qiuxiaoce.com
+1557382,2026-08-30T13:00:00+00:00,2026,Premier League,Leeds,Brentford,1,1,0,1,D,T. Harrington,https://www.qiuxiaoce.com
+1570362,2026-08-29T19:30:00+00:00,2026,La Liga,Sevilla,Atletico Madrid,1,3,0,3,A,,https://www.qiuxiaoce.com
+1552738,2026-08-29T18:45:00+00:00,2026,Ligue 1,Auxerre,Angers,1,3,1,1,A,H. Ben El Hadj Salem,https://www.qiuxiaoce.com
+1552739,2026-08-29T18:45:00+00:00,2026,Ligue 1,Stade Brestois 29,Toulouse,2,2,1,1,D,J. Brisard,https://www.qiuxiaoce.com
+1552740,2026-08-29T18:45:00+00:00,2026,Ligue 1,Lorient,Estac Troyes,1,2,0,2,A,A. Souifi,https://www.qiuxiaoce.com
+1550101,2026-08-29T18:45:00+00:00,2026,Serie A,Juventus,Parma,2,0,0,0,H,,https://www.qiuxiaoce.com
+1552741,2026-08-29T18:45:00+00:00,2026,Ligue 1,Lyon,Le Havre,1,1,0,0,D,F. Letexier,https://www.qiuxiaoce.com
+1570361,2026-08-29T17:00:00+00:00,2026,La Liga,Real Sociedad,Espanyol,2,1,1,1,H,,https://www.qiuxiaoce.com
+1550104,2026-08-29T16:30:00+00:00,2026,Serie A,Monza,Udinese,2,3,1,3,A,,https://www.qiuxiaoce.com
+1575142,2026-08-29T16:30:00+00:00,2026,Bundesliga,Borussia Dortmund,Hamburger SV,2,0,2,0,H,F. Zwayer,https://www.qiuxiaoce.com
+1550106,2026-08-29T16:30:00+00:00,2026,Serie A,Sassuolo,Torino,2,1,1,1,H,,https://www.qiuxiaoce.com
+1557386,2026-08-29T16:30:00+00:00,2026,Premier League,Tottenham,Newcastle,0,2,0,0,A,P. Bankes,https://www.qiuxiaoce.com
+1550100,2026-08-29T16:30:00+00:00,2026,Serie A,Fiorentina,Frosinone,0,3,0,2,A,,https://www.qiuxiaoce.com
+1552745,2026-08-29T15:15:00+00:00,2026,Ligue 1,Strasbourg,Lens,2,1,0,1,H,B. Dechepy,https://www.qiuxiaoce.com
+1570357,2026-08-29T15:00:00+00:00,2026,La Liga,Levante,Real Betis,5,2,2,2,H,,https://www.qiuxiaoce.com
+1557380,2026-08-29T14:00:00+00:00,2026,Premier League,Coventry,Hull City,0,1,0,0,A,J. Smith,https://www.qiuxiaoce.com
+1557378,2026-08-29T14:00:00+00:00,2026,Premier League,Bournemouth,Everton,1,1,1,0,D,C. Kavanagh,https://www.qiuxiaoce.com
+1575146,2026-08-29T13:30:00+00:00,2026,Bundesliga,FSV Mainz 05,SC Paderborn 07,0,0,0,0,D,T. Stieler,https://www.qiuxiaoce.com
+1575147,2026-08-29T13:30:00+00:00,2026,Bundesliga,RB Leipzig,Borussia Mönchengladbach,3,0,1,0,H,S. Jablonski,https://www.qiuxiaoce.com
+1575148,2026-08-29T13:30:00+00:00,2026,Bundesliga,Union Berlin,Eintracht Frankfurt,3,3,1,2,D,B. Dankert,https://www.qiuxiaoce.com
+1575143,2026-08-29T13:30:00+00:00,2026,Bundesliga,SV Elversberg,Bayer Leverkusen,3,2,2,0,H,R. Hartmann,https://www.qiuxiaoce.com
+1575144,2026-08-29T13:30:00+00:00,2026,Bundesliga,1. FC Köln,1899 Hoffenheim,3,2,0,1,H,F. Badstubner,https://www.qiuxiaoce.com
+1557383,2026-08-29T11:30:00+00:00,2026,Premier League,Liverpool,Nottingham Forest,2,2,0,1,D,S. Barrott,https://www.qiuxiaoce.com
+1570353,2026-08-28T19:30:00+00:00,2026,La Liga,Alaves,Villarreal,1,0,1,0,H,,https://www.qiuxiaoce.com
+1557381,2026-08-28T19:00:00+00:00,2026,Premier League,Crystal Palace,Manchester City,1,4,0,1,A,A. Madley,https://www.qiuxiaoce.com
+1552746,2026-08-28T18:45:00+00:00,2026,Ligue 1,Lille,Paris Saint Germain,2,2,1,0,D,E. Wattellier,https://www.qiuxiaoce.com
+1550097,2026-08-28T18:45:00+00:00,2026,Serie A,AC Milan,Venezia,2,0,0,0,H,,https://www.qiuxiaoce.com
+1575140,2026-08-28T18:30:00+00:00,2026,Bundesliga,Bayern München,VfB Stuttgart,5,1,1,0,H,S. Storks,https://www.qiuxiaoce.com
+1570359,2026-08-28T17:00:00+00:00,2026,La Liga,Racing Santander,Elche,3,2,3,0,H,,https://www.qiuxiaoce.com
+1570335,2026-08-27T19:00:00+00:00,2026,La Liga,Barcelona,Athletic Club,2,0,1,0,H,M. Ortiz,https://www.qiuxiaoce.com
+1570336,2026-08-27T18:30:00+00:00,2026,La Liga,Celta Vigo,Osasuna,1,2,1,0,A,M. Sesma,https://www.qiuxiaoce.com
+1570340,2026-08-26T19:00:00+00:00,2026,La Liga,Real Madrid,Real Sociedad,4,1,1,1,H,J. Manzano,https://www.qiuxiaoce.com
+1570342,2026-08-25T19:00:00+00:00,2026,La Liga,Valencia,Real Betis,0,1,0,0,A,,https://www.qiuxiaoce.com
+1570349,2026-08-24T19:30:00+00:00,2026,La Liga,Malaga,Deportivo La Coruna,1,1,1,1,D,,https://www.qiuxiaoce.com
+1557376,2026-08-24T19:00:00+00:00,2026,Premier League,Fulham,Chelsea,2,3,1,2,A,J. Brooks,https://www.qiuxiaoce.com
+1550087,2026-08-24T18:45:00+00:00,2026,Serie A,AS Roma,Fiorentina,4,0,1,0,H,M. Marcenaro,https://www.qiuxiaoce.com
+1570350,2026-08-24T17:30:00+00:00,2026,La Liga,Osasuna,Levante,0,0,0,0,D,,https://www.qiuxiaoce.com
+1550089,2026-08-24T16:30:00+00:00,2026,Serie A,Bologna,Lazio,0,1,0,0,A,F. Maresca,https://www.qiuxiaoce.com
+1570346,2026-08-23T19:30:00+00:00,2026,La Liga,Elche,Barcelona,0,5,0,2,A,,https://www.qiuxiaoce.com
+1550088,2026-08-23T18:45:00+00:00,2026,Serie A,Atalanta,Sassuolo,2,1,1,0,H,V. Crezzini,https://www.qiuxiaoce.com
+1552735,2026-08-23T18:45:00+00:00,2026,Ligue 1,Rennes,Paris Saint Germain,2,2,2,0,D,B. Dechepy,https://www.qiuxiaoce.com
+1550094,2026-08-23T18:45:00+00:00,2026,Serie A,Torino,AC Milan,1,2,0,0,A,L. Zufferli,https://www.qiuxiaoce.com
+1570348,2026-08-23T17:30:00+00:00,2026,La Liga,Getafe,Racing Santander,1,0,0,0,H,,https://www.qiuxiaoce.com
+1550090,2026-08-23T16:30:00+00:00,2026,Serie A,Frosinone,Juventus,0,1,0,1,A,G. Ayroldi,https://www.qiuxiaoce.com
+1550096,2026-08-23T16:30:00+00:00,2026,Serie A,Venezia,Lecce,0,2,0,0,A,A. Rapuano,https://www.qiuxiaoce.com
+1557375,2026-08-23T15:30:00+00:00,2026,Premier League,Newcastle,Liverpool,2,2,1,0,D,S. Attwell,https://www.qiuxiaoce.com
+1552730,2026-08-23T15:15:00+00:00,2026,Ligue 1,Le Havre,Monaco,0,1,0,1,A,J. Pignard,https://www.qiuxiaoce.com
+1570344,2026-08-23T15:00:00+00:00,2026,La Liga,Atletico Madrid,Villarreal,2,2,0,0,D,,https://www.qiuxiaoce.com
+1557374,2026-08-23T13:00:00+00:00,2026,Premier League,Manchester City,Bournemouth,2,1,0,1,H,J. Gillett,https://www.qiuxiaoce.com
+1552729,2026-08-23T13:00:00+00:00,2026,Ligue 1,Angers,Lille,0,2,0,2,A,J. Stinat,https://www.qiuxiaoce.com
+1557373,2026-08-23T13:00:00+00:00,2026,Premier League,Brighton,Aston Villa,4,0,4,0,H,P. Bankes,https://www.qiuxiaoce.com
+1570347,2026-08-22T19:30:00+00:00,2026,La Liga,Espanyol,Real Madrid,1,2,1,1,A,,https://www.qiuxiaoce.com
+1550091,2026-08-22T18:45:00+00:00,2026,Serie A,Genoa,Napoli,0,2,0,0,A,M. Di Bello,https://www.qiuxiaoce.com
+1552736,2026-08-22T18:45:00+00:00,2026,Ligue 1,Toulouse,Lyon,0,2,0,0,A,G. Paradis,https://www.qiuxiaoce.com
+1552737,2026-08-22T18:45:00+00:00,2026,Ligue 1,Estac Troyes,Paris FC,0,0,0,0,D,M. Bollengier,https://www.qiuxiaoce.com
+1552731,2026-08-22T18:45:00+00:00,2026,Ligue 1,Le Mans,Stade Brestois 29,2,2,1,1,D,A. Petit,https://www.qiuxiaoce.com
+1550093,2026-08-22T18:45:00+00:00,2026,Serie A,Parma,Cagliari,0,1,0,0,A,D. Perenzoni,https://www.qiuxiaoce.com
+1552734,2026-08-22T18:45:00+00:00,2026,Ligue 1,Nice,Lorient,0,0,0,0,D,R. Lissorgue,https://www.qiuxiaoce.com
+1570352,2026-08-22T17:30:00+00:00,2026,La Liga,Valencia,Celta Vigo,0,0,0,0,D,,https://www.qiuxiaoce.com
+1550095,2026-08-22T16:30:00+00:00,2026,Serie A,Udinese,Como,1,1,1,0,D,A. Arena,https://www.qiuxiaoce.com
+1550092,2026-08-22T16:30:00+00:00,2026,Serie A,Inter,Monza,4,1,1,1,H,L. Marinelli,https://www.qiuxiaoce.com
+1557372,2026-08-22T16:30:00+00:00,2026,Premier League,Brentford,Tottenham,3,0,2,0,H,M. Oliver,https://www.qiuxiaoce.com
+1552732,2026-08-22T15:15:00+00:00,2026,Ligue 1,Lens,Auxerre,5,2,1,0,H,M. Vernice,https://www.qiuxiaoce.com
+1570343,2026-08-22T15:00:00+00:00,2026,La Liga,Athletic Club,Sevilla,1,3,0,1,A,,https://www.qiuxiaoce.com
+1557371,2026-08-22T14:00:00+00:00,2026,Premier League,Nottingham Forest,Leeds,0,1,0,0,A,R. Jones,https://www.qiuxiaoce.com
+1557369,2026-08-22T14:00:00+00:00,2026,Premier League,Everton,Crystal Palace,2,0,1,0,H,P. Tierney,https://www.qiuxiaoce.com
+1557370,2026-08-22T14:00:00+00:00,2026,Premier League,Ipswich,Sunderland,2,1,1,1,H,F. Hallam,https://www.qiuxiaoce.com
+1557368,2026-08-22T11:30:00+00:00,2026,Premier League,Hull City,Manchester United,2,0,2,0,H,D. England,https://www.qiuxiaoce.com
+1557367,2026-08-21T19:00:00+00:00,2026,Premier League,Arsenal,Coventry,3,0,2,0,H,T. Bramall,https://www.qiuxiaoce.com
+1570345,2026-08-21T19:00:00+00:00,2026,La Liga,Real Betis,Real Sociedad,1,0,0,0,H,,https://www.qiuxiaoce.com
+1552733,2026-08-21T18:45:00+00:00,2026,Ligue 1,Marseille,Strasbourg,4,0,0,0,H,R. Buquet,https://www.qiuxiaoce.com
+1570351,2026-08-20T19:00:00+00:00,2026,La Liga,Rayo Vallecano,Alaves,1,1,0,0,D,,https://www.qiuxiaoce.com
+1570334,2026-08-19T19:00:00+00:00,2026,La Liga,Atletico Madrid,Malaga,2,0,0,0,H,,https://www.qiuxiaoce.com
+1570337,2026-08-17T19:00:00+00:00,2026,La Liga,Deportivo La Coruna,Elche,1,1,1,0,D,,https://www.qiuxiaoce.com
+1570338,2026-08-16T17:00:00+00:00,2026,La Liga,Espanyol,Levante,3,0,2,0,H,,https://www.qiuxiaoce.com
+1570339,2026-08-16T15:00:00+00:00,2026,La Liga,Racing Santander,Villarreal,2,2,2,2,D,,https://www.qiuxiaoce.com
+1570341,2026-08-15T19:30:00+00:00,2026,La Liga,Sevilla,Rayo Vallecano,2,1,0,1,H,,https://www.qiuxiaoce.com
+1570333,2026-08-15T17:30:00+00:00,2026,La Liga,Alaves,Getafe,3,0,0,0,H,,https://www.qiuxiaoce.com
+1545409,2026-05-29T18:45:00+00:00,2025,Ligue 1,Nice,Saint Etienne,4,1,0,0,H,R. Buquet,https://www.qiuxiaoce.com
+1545408,2026-05-26T18:45:00+00:00,2025,Ligue 1,Saint Etienne,Nice,0,0,0,0,D,B. Bastien,https://www.qiuxiaoce.com
+1391198,2026-05-24T19:00:00+00:00,2025,La Liga,Villarreal,Atletico Madrid,5,1,4,1,H,M. Sesma,https://www.qiuxiaoce.com
+1378239,2026-05-24T18:45:00+00:00,2025,Serie A,AC Milan,Cagliari,1,2,1,1,A,M. Guida,https://www.qiuxiaoce.com
+1378242,2026-05-24T18:45:00+00:00,2025,Serie A,Torino,Juventus,2,2,0,1,D,L. Zufferli,https://www.qiuxiaoce.com
+1378243,2026-05-24T18:45:00+00:00,2025,Serie A,Hellas Verona,AS Roma,0,2,0,0,A,S. Sozza,https://www.qiuxiaoce.com
+1378235,2026-05-24T18:45:00+00:00,2025,Serie A,Cremonese,Como,1,4,0,1,A,F. Maresca,https://www.qiuxiaoce.com
+1378238,2026-05-24T18:45:00+00:00,2025,Serie A,Lecce,Genoa,1,0,1,0,H,D. Doveri,https://www.qiuxiaoce.com
+1378240,2026-05-24T16:00:00+00:00,2025,Serie A,Napoli,Udinese,1,0,1,0,H,A. Zanotti,https://www.qiuxiaoce.com
+1379344,2026-05-24T15:00:00+00:00,2025,Premier League,Manchester City,Aston Villa,1,2,1,0,A,A. Madley,https://www.qiuxiaoce.com
+1379345,2026-05-24T15:00:00+00:00,2025,Premier League,Nottingham Forest,Bournemouth,1,1,1,0,D,C. Pawson,https://www.qiuxiaoce.com
+1379341,2026-05-24T15:00:00+00:00,2025,Premier League,Crystal Palace,Arsenal,1,2,0,1,A,F. Hallam,https://www.qiuxiaoce.com
+1379346,2026-05-24T15:00:00+00:00,2025,Premier League,Sunderland,Chelsea,2,1,1,0,H,C. Kavanagh,https://www.qiuxiaoce.com
+1379339,2026-05-24T15:00:00+00:00,2025,Premier League,Brighton,Manchester United,0,3,0,2,A,S. Barrott,https://www.qiuxiaoce.com
+1379340,2026-05-24T15:00:00+00:00,2025,Premier League,Burnley,Wolves,1,1,0,1,D,A. Kitchen,https://www.qiuxiaoce.com
+1379342,2026-05-24T15:00:00+00:00,2025,Premier League,Fulham,Newcastle,2,0,1,0,H,R. Jones,https://www.qiuxiaoce.com
+1379348,2026-05-24T15:00:00+00:00,2025,Premier League,West Ham,Leeds,3,0,0,0,H,A. Taylor,https://www.qiuxiaoce.com
+1379347,2026-05-24T15:00:00+00:00,2025,Premier League,Tottenham,Everton,1,0,1,0,H,M. Oliver,https://www.qiuxiaoce.com
+1379343,2026-05-24T15:00:00+00:00,2025,Premier League,Liverpool,Brentford,1,1,0,0,D,D. England,https://www.qiuxiaoce.com
+1378241,2026-05-24T13:00:00+00:00,2025,Serie A,Parma,Sassuolo,1,0,0,0,H,N. Turrini,https://www.qiuxiaoce.com
+1391196,2026-05-23T19:00:00+00:00,2025,La Liga,Real Madrid,Athletic Club,4,2,2,1,H,J. Martinez,https://www.qiuxiaoce.com
+1391195,2026-05-23T19:00:00+00:00,2025,La Liga,Mallorca,Oviedo,3,0,1,0,H,J. Sanchez,https://www.qiuxiaoce.com
+1391190,2026-05-23T19:00:00+00:00,2025,La Liga,Real Betis,Levante,2,1,1,1,H,M. Busquets,https://www.qiuxiaoce.com
+1391189,2026-05-23T19:00:00+00:00,2025,La Liga,Alaves,Rayo Vallecano,1,2,1,0,A,J. Manzano,https://www.qiuxiaoce.com
+1391192,2026-05-23T19:00:00+00:00,2025,La Liga,Espanyol,Real Sociedad,1,1,0,1,D,J. Munuera,https://www.qiuxiaoce.com
+1391194,2026-05-23T19:00:00+00:00,2025,La Liga,Girona,Elche,1,1,0,1,D,A. Hernandez,https://www.qiuxiaoce.com
+1391197,2026-05-23T19:00:00+00:00,2025,La Liga,Valencia,Barcelona,3,1,0,0,H,A. Cordero,https://www.qiuxiaoce.com
+1391193,2026-05-23T19:00:00+00:00,2025,La Liga,Getafe,Osasuna,1,0,0,0,H,A. Quintero,https://www.qiuxiaoce.com
+1391191,2026-05-23T19:00:00+00:00,2025,La Liga,Celta Vigo,Sevilla,1,0,0,0,H,F. Maeso,https://www.qiuxiaoce.com
+1378237,2026-05-23T18:45:00+00:00,2025,Serie A,Lazio,Pisa,2,1,2,1,H,M. Caputi,https://www.qiuxiaoce.com
+1378234,2026-05-23T16:00:00+00:00,2025,Serie A,Bologna,Inter,3,3,2,1,D,K. Bonacina,https://www.qiuxiaoce.com
+1545417,2026-05-21T18:30:00+00:00,2025,Bundesliga,VfL Wolfsburg,SC Paderborn 07,0,0,0,0,D,"Benjamin Brand, Germany",https://www.qiuxiaoce.com
+1379330,2026-05-15T19:00:00+00:00,2025,Premier League,Aston Villa,Liverpool,4,2,1,0,H,"Chris Kavanagh, England",https://www.qiuxiaoce.com
+1379275,2026-05-13T19:00:00+00:00,2025,Premier League,Manchester City,Crystal Palace,3,0,2,0,H,"Stuart Attwell, England",https://www.qiuxiaoce.com
+1379327,2026-05-11T19:00:00+00:00,2025,Premier League,Tottenham,Leeds,1,1,0,0,D,"Jarred Gillett, Australia",https://www.qiuxiaoce.com
+1391165,2026-05-11T19:00:00+00:00,2025,La Liga,Rayo Vallecano,Girona,1,1,0,0,D,"Guillermo Cuadra Fernandez, Spain",https://www.qiuxiaoce.com
+1378220,2026-05-11T18:45:00+00:00,2025,Serie A,Napoli,Bologna,2,3,1,2,A,"Marco Piccinini, Italy",https://www.qiuxiaoce.com
+1391161,2026-05-10T19:00:00+00:00,2025,La Liga,Barcelona,Real Madrid,2,0,2,0,H,"Alejandro Hernandez, Spain",https://www.qiuxiaoce.com
+1387990,2026-05-10T19:00:00+00:00,2025,Ligue 1,Metz,Lorient,0,4,0,1,A,"Jeremy Stinat, France",https://www.qiuxiaoce.com
+1387986,2026-05-10T19:00:00+00:00,2025,Ligue 1,Angers,Strasbourg,1,1,0,1,D,"Hakim Ben el Salem Hadj, France",https://www.qiuxiaoce.com
+1387994,2026-05-10T19:00:00+00:00,2025,Ligue 1,Toulouse,Lyon,2,1,1,0,H,"Bastien Dechepy, France",https://www.qiuxiaoce.com
+1387991,2026-05-10T19:00:00+00:00,2025,Ligue 1,Monaco,Lille,0,1,0,0,A,"Clement Turpin, France",https://www.qiuxiaoce.com
+1387992,2026-05-10T19:00:00+00:00,2025,Ligue 1,Paris Saint Germain,Stade Brestois 29,1,0,0,0,H,"Jérôme Brisard, France",https://www.qiuxiaoce.com
+1387987,2026-05-10T19:00:00+00:00,2025,Ligue 1,Auxerre,Nice,2,1,1,1,H,"François Letexier, France",https://www.qiuxiaoce.com
+1387988,2026-05-10T19:00:00+00:00,2025,Ligue 1,Le Havre,Marseille,0,1,0,0,A,"Benoît Bastien, France",https://www.qiuxiaoce.com
+1387993,2026-05-10T19:00:00+00:00,2025,Ligue 1,Rennes,Paris FC,2,1,0,0,H,"Thomas Leonard, France",https://www.qiuxiaoce.com
+1378219,2026-05-10T18:45:00+00:00,2025,Serie A,AC Milan,Atalanta,2,3,0,2,A,"Luca Zufferli, Italy",https://www.qiuxiaoce.com
+1388601,2026-05-10T17:30:00+00:00,2025,Bundesliga,FSV Mainz 05,Union Berlin,1,3,0,1,A,"Florian Exner, Germany",https://www.qiuxiaoce.com
+1391167,2026-05-10T16:30:00+00:00,2025,La Liga,Oviedo,Getafe,0,0,0,0,D,"César Soto Grado, Spain",https://www.qiuxiaoce.com
+1378221,2026-05-10T16:00:00+00:00,2025,Serie A,Parma,AS Roma,2,3,0,1,A,"Daniele Chiffi, Italy",https://www.qiuxiaoce.com
+1388598,2026-05-10T15:30:00+00:00,2025,Bundesliga,1. FC Köln,1. FC Heidenheim,1,3,1,2,A,"Sven Jablonski, Germany",https://www.qiuxiaoce.com
+1379328,2026-05-10T15:30:00+00:00,2025,Premier League,West Ham,Arsenal,0,1,0,0,A,"Chris Kavanagh, England",https://www.qiuxiaoce.com
+1391159,2026-05-10T14:15:00+00:00,2025,La Liga,Athletic Club,Valencia,0,1,0,0,A,"Miguel Angel Ortiz Arias, Spain",https://www.qiuxiaoce.com
+1388599,2026-05-10T13:30:00+00:00,2025,Bundesliga,Hamburger SV,SC Freiburg,3,2,1,1,H,"Felix Zwayer, Germany",https://www.qiuxiaoce.com
+1378216,2026-05-10T13:00:00+00:00,2025,Serie A,Fiorentina,Genoa,0,0,0,0,D,"Luca Massimi, Italy",https://www.qiuxiaoce.com
+1378215,2026-05-10T13:00:00+00:00,2025,Serie A,Cremonese,Pisa,3,0,1,0,H,"Giovanni Ayroldi, Italy",https://www.qiuxiaoce.com
+1379321,2026-05-10T13:00:00+00:00,2025,Premier League,Crystal Palace,Everton,2,2,1,1,D,"Thomas Bramall, England",https://www.qiuxiaoce.com
+1379320,2026-05-10T13:00:00+00:00,2025,Premier League,Burnley,Aston Villa,2,2,1,1,D,"Anthony Taylor, England",https://www.qiuxiaoce.com
