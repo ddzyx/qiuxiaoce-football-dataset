@@ -1,7 +1,11 @@
 match_id,match_date,season_year,league,round,home_team,away_team,home_score,away_score,half_home_score,half_away_score,xg_home,xg_away,shots_total_home,shots_total_away,shots_on_target_home,shots_on_target_away,corners_home,corners_away,possession_home,possession_away,total_goals,result,data_provider
-1651120,2026-11-23,2026,Major League Soccer,Round of 16,Vancouver Whitecaps,Real Salt Lake,2,0,1.0,0.0,2.25,0.99,22,14,7,5,7,8,64,36,2,H,https://www.qiuxiaoce.com
+1649498,2026-11-24,2026,Major League Soccer,Round of 16,St. Louis City,Los Angeles FC,3,2,1.0,0.0,1.45,1.99,10,17,6,4,7,2,59,41,5,H,https://www.qiuxiaoce.com
+1570457,2026-11-23,2026,La Liga,Regular Season - 13,Levante,Elche,1,1,0.0,0.0,0.9,0.39,18,4,2,2,5,1,51,49,2,D,https://www.qiuxiaoce.com
+1557469,2026-11-23,2026,Premier League,Regular Season - 11,Brentford,Everton,4,0,2.0,0.0,2.81,0.25,21,4,7,2,6,3,72,28,4,H,https://www.qiuxiaoce.com
+1550203,2026-11-23,2026,Serie A,Regular Season - 12,Monza,Fiorentina,3,0,1.0,0.0,1.7,1.8,13,17,5,8,3,7,45,55,3,H,https://www.qiuxiaoce.com
+1651120,2026-11-23,2026,Major League Soccer,Round of 16,Vancouver Whitecaps,Real Salt Lake,2,0,1.0,0.0,2.26,1.14,21,14,6,5,7,8,64,36,2,H,https://www.qiuxiaoce.com
 1649493,2026-11-22,2026,Major League Soccer,Round of 16,Chicago Fire,Charlotte,1,2,0.0,0.0,1.92,3.48,27,19,4,5,5,8,58,42,3,A,https://www.qiuxiaoce.com
-1651119,2026-11-22,2026,Major League Soccer,Round of 16,Nashville SC,FC Cincinnati,0,1,0.0,1.0,2.43,0.5,23,5,6,2,9,2,69,31,1,A,https://www.qiuxiaoce.com
+1651119,2026-11-22,2026,Major League Soccer,Round of 16,Nashville SC,FC Cincinnati,0,1,0.0,1.0,2.09,0.58,23,5,6,2,9,2,69,31,1,A,https://www.qiuxiaoce.com
 1570456,2026-11-22,2026,La Liga,Regular Season - 13,Getafe,Atletico Madrid,0,3,0.0,2.0,0.63,4.13,11,20,1,10,2,7,32,68,3,A,https://www.qiuxiaoce.com
 1552822,2026-11-22,2026,Ligue 1,Regular Season - 11,Marseille,Le Mans,2,3,2.0,0.0,1.53,4.01,11,18,5,9,2,5,55,45,5,A,https://www.qiuxiaoce.com
 1550198,2026-11-22,2026,Serie A,Regular Season - 12,Atalanta,Inter,4,4,1.0,2.0,3.14,3.4,15,16,10,6,5,6,40,60,8,D,https://www.qiuxiaoce.com
@@ -3995,7 +3999,3 @@ match_id,match_date,season_year,league,round,home_team,away_team,home_score,away
 1390955,2025-11-29,2025,La Liga,Regular Season - 14,Mallorca,Osasuna,2,2,0.0,0.0,1.49,1.09,7,14,4,2,2,8,52,48,4,D,https://www.qiuxiaoce.com
 1386763,2025-11-29,2025,Championship,Regular Season - 18,Stoke City,Hull City,1,2,1.0,0.0,0.8,1.18,12,11,7,6,7,8,56,44,3,A,https://www.qiuxiaoce.com
 1386760,2025-11-29,2025,Championship,Regular Season - 18,Leicester,Sheffield Utd,2,3,0.0,3.0,0.98,0.97,15,13,3,3,4,9,69,31,5,A,https://www.qiuxiaoce.com
-1386757,2025-11-29,2025,Championship,Regular Season - 18,Portsmouth,Bristol City,0,1,0.0,1.0,1.47,1.6,13,15,2,5,4,4,50,50,1,A,https://www.qiuxiaoce.com
-1396344,2025-11-28,2025,Primeira Liga,Regular Season - 12,Guimaraes,AVS,4,0,3.0,0.0,1.6,1.2,11,9,4,1,7,3,46,54,4,H,https://www.qiuxiaoce.com
-1390952,2025-11-28,2025,La Liga,Regular Season - 14,Getafe,Elche,1,0,0.0,0.0,1.06,0.51,15,9,6,4,3,5,34,66,1,H,https://www.qiuxiaoce.com
-1386761,2025-11-28,2025,Championship,Regular Season - 18,Oxford United,Ipswich,2,1,1.0,0.0,1.24,1.7,13,18,8,7,3,6,27,73,3,H,https://www.qiuxiaoce.com
