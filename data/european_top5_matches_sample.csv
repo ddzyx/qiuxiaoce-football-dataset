@@ -1,4 +1,60 @@
 match_id,match_date,season_year,league,round,home_team,away_team,home_score,away_score,half_home_score,half_away_score,xg_home,xg_away,shots_total_home,shots_total_away,shots_on_target_home,shots_on_target_away,corners_home,corners_away,possession_home,possession_away,total_goals,result,data_provider
+1636349,2026-11-26,2026,UEFA Europa League,League Stage - 5,Torreense,Celtic,1,2,1.0,1.0,0.57,1.67,11,14,3,6,3,7,37,63,3,A,https://www.qiuxiaoce.com
+1636343,2026-11-26,2026,UEFA Europa League,League Stage - 5,Sunderland,Jagiellonia,1,1,0.0,0.0,2.19,1.96,16,12,7,5,8,3,50,50,2,D,https://www.qiuxiaoce.com
+1636336,2026-11-26,2026,UEFA Europa League,League Stage - 5,Sparta Praha,AZ Alkmaar,2,4,2.0,0.0,2.3,1.38,19,18,5,6,2,0,38,62,6,A,https://www.qiuxiaoce.com
+1636305,2026-11-26,2026,UEFA Europa League,League Stage - 5,OFI,Anderlecht,1,3,0.0,2.0,1.09,1.67,6,17,2,8,3,7,48,52,4,A,https://www.qiuxiaoce.com
+1636301,2026-11-26,2026,UEFA Europa League,League Stage - 5,NEC Nijmegen,Rennes,3,1,1.0,1.0,3.13,2.54,16,21,4,8,1,5,53,47,4,H,https://www.qiuxiaoce.com
+1636294,2026-11-26,2026,UEFA Europa League,League Stage - 5,Lyon,Lillestrom,0,0,0.0,0.0,1.2,0.82,22,10,7,1,9,6,64,36,0,D,https://www.qiuxiaoce.com
+1636277,2026-11-26,2026,UEFA Europa League,League Stage - 5,Juventus,Omonia Nicosia,4,1,2.0,1.0,2.14,0.83,23,13,9,5,5,3,60,40,5,H,https://www.qiuxiaoce.com
+1636270,2026-11-26,2026,UEFA Europa League,League Stage - 5,1899 Hoffenheim,Sturm Graz,3,1,0.0,1.0,2.62,1.35,24,12,7,6,10,4,61,39,4,H,https://www.qiuxiaoce.com
+1636261,2026-11-26,2026,UEFA Europa League,League Stage - 5,Ferencvarosi TC,Celje,0,0,0.0,0.0,3.05,0.24,27,6,6,2,6,2,49,51,0,D,https://www.qiuxiaoce.com
+1636252,2026-11-26,2026,UEFA Europa League,League Stage - 5,Crystal Palace,Real Sociedad,2,1,0.0,0.0,4.61,2.75,16,19,4,7,2,7,43,57,3,H,https://www.qiuxiaoce.com
+1636334,2026-11-26,2026,UEFA Europa League,League Stage - 5,Red Bull Salzburg,Ararat-Armenia,2,0,0.0,0.0,3.03,0.42,24,8,8,1,9,3,63,37,2,H,https://www.qiuxiaoce.com
+1636329,2026-11-26,2026,UEFA Europa League,League Stage - 5,Union St. Gilloise,Lech Poznan,2,2,0.0,2.0,3.21,1.16,24,5,10,2,9,0,58,42,4,D,https://www.qiuxiaoce.com
+1636315,2026-11-26,2026,UEFA Europa League,League Stage - 5,Plzen,Benfica,4,0,3.0,0.0,2.11,0.54,15,16,11,2,4,10,31,69,4,H,https://www.qiuxiaoce.com
+1636307,2026-11-26,2026,UEFA Europa League,League Stage - 5,Olympiakos Piraeus,AC Milan,2,4,1.0,0.0,1.6,2.27,18,12,5,6,6,1,41,59,6,A,https://www.qiuxiaoce.com
+1636298,2026-11-26,2026,UEFA Europa League,League Stage - 5,Marseille,Levski Sofia,1,0,1.0,0.0,2.05,0.3,12,8,5,1,3,2,52,48,1,H,https://www.qiuxiaoce.com
+1636255,2026-11-26,2026,UEFA Europa League,League Stage - 5,Dinamo Zagreb,Bayer Leverkusen,0,2,0.0,2.0,1.1,1.28,14,9,3,2,6,6,38,62,2,A,https://www.qiuxiaoce.com
+1636244,2026-11-26,2026,UEFA Europa League,League Stage - 5,Celta Vigo,Bournemouth,1,2,1.0,0.0,1.86,0.65,20,10,5,6,6,5,64,36,3,A,https://www.qiuxiaoce.com
+1636231,2026-11-26,2026,UEFA Europa League,League Stage - 5,Beşiktaş,Hapoel Beer Sheva,2,1,0.0,0.0,3.32,1.92,28,9,10,9,11,4,54,46,3,H,https://www.qiuxiaoce.com
+1635735,2026-11-25,2026,UEFA Champions League,League Stage - 5,Sporting CP,Manchester United,2,2,1.0,0.0,2.5,1.09,11,7,4,2,3,2,51,49,4,D,https://www.qiuxiaoce.com
+1635724,2026-11-25,2026,UEFA Champions League,League Stage - 5,Shakhtar Donetsk,Fenerbahçe,0,1,0.0,0.0,0.58,1.75,8,13,2,5,3,5,54,46,1,A,https://www.qiuxiaoce.com
+1635703,2026-11-25,2026,UEFA Champions League,League Stage - 5,Paris Saint Germain,AS Roma,2,2,1.0,1.0,1.86,2.76,15,13,4,4,3,4,66,34,4,D,https://www.qiuxiaoce.com
+1635682,2026-11-25,2026,UEFA Champions League,League Stage - 5,Lille,Bayern München,2,1,0.0,1.0,2.15,1.19,15,12,3,7,3,4,35,65,3,H,https://www.qiuxiaoce.com
+1635673,2026-11-25,2026,UEFA Champions League,League Stage - 5,Inter,VfB Stuttgart,2,0,0.0,0.0,2.77,1.08,20,13,5,2,11,6,51,49,2,H,https://www.qiuxiaoce.com
+1635642,2026-11-25,2026,UEFA Champions League,League Stage - 5,Club Brugge KV,Liverpool,0,3,0.0,1.0,1.18,2.0,17,13,5,4,8,4,54,46,3,A,https://www.qiuxiaoce.com
+1635625,2026-11-25,2026,UEFA Champions League,League Stage - 5,Atletico Madrid,Viking,2,0,2.0,0.0,1.96,0.68,20,9,9,1,6,1,48,52,2,H,https://www.qiuxiaoce.com
+1563285,2026-11-25,2026,Championship,Regular Season - 17,Stoke City,Millwall,2,1,2.0,0.0,1.65,1.3,20,14,6,4,2,5,52,48,3,H,https://www.qiuxiaoce.com
+1563286,2026-11-25,2026,Championship,Regular Season - 17,Watford,Blackburn,0,1,0.0,0.0,1.27,2.4,12,17,3,5,5,4,48,52,1,A,https://www.qiuxiaoce.com
+1563284,2026-11-25,2026,Championship,Regular Season - 17,Burnley,Birmingham,0,2,0.0,1.0,1.14,3.36,13,19,4,8,9,7,56,44,2,A,https://www.qiuxiaoce.com
+1563283,2026-11-25,2026,Championship,Regular Season - 17,Bolton,West Brom,1,3,0.0,1.0,1.58,1.8,10,10,2,7,1,4,47,53,4,A,https://www.qiuxiaoce.com
+1635728,2026-11-25,2026,UEFA Champions League,League Stage - 5,Slavia Praha,Villarreal,0,1,0.0,0.0,1.25,1.07,13,7,1,5,13,0,52,48,1,A,https://www.qiuxiaoce.com
+1635718,2026-11-25,2026,UEFA Champions League,League Stage - 5,Sabah FA,Barcelona,1,4,0.0,1.0,1.27,4.12,8,25,3,14,4,6,28,72,5,A,https://www.qiuxiaoce.com
+1556156,2026-11-25,2026,J1 League,Regular Season - 16,Urawa,Cerezo Osaka,2,2,2.0,0.0,2.36,2.23,15,27,6,8,3,10,52,48,4,D,https://www.qiuxiaoce.com
+1556157,2026-11-25,2026,J1 League,Regular Season - 16,V-varen Nagasaki,Kawasaki Frontale,1,2,1.0,1.0,1.2,2.57,15,22,3,8,5,7,48,52,3,A,https://www.qiuxiaoce.com
+1556155,2026-11-25,2026,J1 League,Regular Season - 16,Fagiano Okayama,Shimizu S-pulse,2,0,0.0,0.0,1.12,0.52,12,4,5,0,8,2,33,67,2,H,https://www.qiuxiaoce.com
+1556154,2026-11-25,2026,J1 League,Regular Season - 16,Mito Hollyhock,Tokyo Verdy,1,0,0.0,0.0,0.91,0.36,15,7,4,0,6,2,65,35,1,H,https://www.qiuxiaoce.com
+1556153,2026-11-25,2026,J1 League,Regular Season - 16,FC Tokyo,Sanfrecce Hiroshima,2,2,0.0,1.0,1.41,0.82,16,6,2,2,4,2,58,42,4,D,https://www.qiuxiaoce.com
+1556152,2026-11-25,2026,J1 League,Regular Season - 16,JEF United Chiba,Nagoya Grampus,1,2,1.0,1.0,1.08,1.5,18,21,6,4,6,6,40,60,3,A,https://www.qiuxiaoce.com
+1556151,2026-11-25,2026,J1 League,Regular Season - 16,Avispa Fukuoka,Yokohama F. Marinos,1,2,1.0,0.0,0.83,0.61,11,9,3,4,4,5,35,65,3,A,https://www.qiuxiaoce.com
+1649497,2026-11-25,2026,Major League Soccer,Round of 16,San Jose Earthquakes,Houston Dynamo,2,1,2.0,0.0,0.95,0.64,11,9,5,5,7,5,37,63,3,H,https://www.qiuxiaoce.com
+1635731,2026-11-24,2026,UEFA Champions League,League Stage - 5,Slovan Bratislava,Real Betis,0,2,0.0,1.0,0.43,1.52,10,17,2,6,1,4,32,68,2,A,https://www.qiuxiaoce.com
+1635715,2026-11-24,2026,UEFA Champions League,League Stage - 5,Real Madrid,PSV Eindhoven,5,1,0.0,1.0,4.79,1.69,24,10,9,1,4,1,61,39,6,H,https://www.qiuxiaoce.com
+1635713,2026-11-24,2026,UEFA Champions League,League Stage - 5,RB Leipzig,Lens,3,1,2.0,0.0,0.93,0.68,15,11,6,3,8,4,60,40,4,H,https://www.qiuxiaoce.com
+1635692,2026-11-24,2026,UEFA Champions League,League Stage - 5,Manchester City,Napoli,2,2,0.0,0.0,1.11,0.57,14,8,5,3,8,2,63,37,4,D,https://www.qiuxiaoce.com
+1635663,2026-11-24,2026,UEFA Champions League,League Stage - 5,Feyenoord,FC Porto,0,1,0.0,1.0,1.08,0.85,21,9,7,3,8,4,57,43,1,A,https://www.qiuxiaoce.com
+1635649,2026-11-24,2026,UEFA Champions League,League Stage - 5,Como,AEK Athens FC,1,0,0.0,0.0,1.64,0.45,15,5,3,3,1,1,64,36,1,H,https://www.qiuxiaoce.com
+1635611,2026-11-24,2026,UEFA Champions League,League Stage - 5,Arsenal,Borussia Dortmund,1,1,1.0,0.0,1.93,0.88,27,12,4,4,6,5,61,39,2,D,https://www.qiuxiaoce.com
+1563282,2026-11-24,2026,Championship,Regular Season - 17,Wolves,Derby,3,0,1.0,0.0,3.17,0.6,39,6,9,1,11,1,64,36,3,H,https://www.qiuxiaoce.com
+1563281,2026-11-24,2026,Championship,Regular Season - 17,Sheffield Utd,Southampton,1,1,0.0,1.0,1.83,1.0,20,11,7,3,9,6,52,48,2,D,https://www.qiuxiaoce.com
+1563280,2026-11-24,2026,Championship,Regular Season - 17,Portsmouth,West Ham,1,0,1.0,0.0,0.64,1.82,9,19,1,6,4,5,37,63,1,H,https://www.qiuxiaoce.com
+1563279,2026-11-24,2026,Championship,Regular Season - 17,Norwich,QPR,1,1,0.0,1.0,0.93,0.61,12,7,2,2,4,3,61,39,2,D,https://www.qiuxiaoce.com
+1563278,2026-11-24,2026,Championship,Regular Season - 17,Middlesbrough,Swansea,2,1,1.0,1.0,3.08,0.71,18,7,7,3,3,2,56,44,3,H,https://www.qiuxiaoce.com
+1563277,2026-11-24,2026,Championship,Regular Season - 17,Charlton,Lincoln,4,0,2.0,0.0,4.14,0.27,33,3,13,0,10,3,66,34,4,H,https://www.qiuxiaoce.com
+1563276,2026-11-24,2026,Championship,Regular Season - 17,Cardiff,Preston,0,4,0.0,2.0,0.76,2.29,15,15,5,6,8,8,73,27,4,A,https://www.qiuxiaoce.com
+1563275,2026-11-24,2026,Championship,Regular Season - 17,Bristol City,Wrexham,1,1,0.0,1.0,0.65,0.75,11,10,4,2,4,9,56,44,2,D,https://www.qiuxiaoce.com
+1635667,2026-11-24,2026,UEFA Champions League,League Stage - 5,Galatasaray,Aston Villa,1,0,0.0,0.0,0.45,0.6,7,4,2,0,5,1,46,54,1,H,https://www.qiuxiaoce.com
+1635641,2026-11-24,2026,UEFA Champions League,League Stage - 5,Bodo/Glimt,Lask Linz,1,0,0.0,0.0,1.12,0.26,8,5,2,0,4,0,65,35,1,H,https://www.qiuxiaoce.com
 1649498,2026-11-24,2026,Major League Soccer,Round of 16,St. Louis City,Los Angeles FC,3,2,1.0,0.0,1.45,1.99,10,17,6,4,7,2,59,41,5,H,https://www.qiuxiaoce.com
 1570457,2026-11-23,2026,La Liga,Regular Season - 13,Levante,Elche,1,1,0.0,0.0,0.9,0.39,18,4,2,2,5,1,51,49,2,D,https://www.qiuxiaoce.com
 1557469,2026-11-23,2026,Premier League,Regular Season - 11,Brentford,Everton,4,0,2.0,0.0,2.81,0.25,21,4,7,2,6,3,72,28,4,H,https://www.qiuxiaoce.com
@@ -1304,14 +1360,14 @@ match_id,match_date,season_year,league,round,home_team,away_team,home_score,away
 1623445,2026-08-27,2026,UEFA Europa League,Play-offs,Ferencvarosi TC,Trabzonspor,4,0,1.0,0.0,,,,,11,2,9,4,68,32,4,H,https://www.qiuxiaoce.com
 1623442,2026-08-27,2026,UEFA Europa League,Play-offs,Anderlecht,Kairat Almaty,3,0,1.0,0.0,3.16,0.56,,,,,,,,,3,H,https://www.qiuxiaoce.com
 1570336,2026-08-27,2026,La Liga,Regular Season - 1,Celta Vigo,Osasuna,1,2,1.0,0.0,0.13,2.68,4,13,2,5,5,3,52,48,3,A,https://www.qiuxiaoce.com
-1627596,2026-08-27,2026,UEFA Europa League,Play-offs,FC Thun,Lech Poznan,2,2,2.0,1.0,,,,,3,3,6,3,40,60,4,D,https://www.qiuxiaoce.com
+1627596,2026-08-27,2026,UEFA Europa League,Play-offs,FC Thun,Lech Poznan,2,2,2.0,1.0,,,10,13,3,3,6,3,40,60,4,D,https://www.qiuxiaoce.com
 1623444,2026-08-27,2026,UEFA Europa League,Play-offs,CSKA Sofia,OFI,0,2,0.0,1.0,1.07,2.46,,,,,,,,,2,A,https://www.qiuxiaoce.com
-1623441,2026-08-27,2026,UEFA Europa League,Play-offs,Aarhus,Benfica,1,3,0.0,1.0,,,,,3,8,3,5,42,58,4,A,https://www.qiuxiaoce.com
-1623450,2026-08-27,2026,UEFA Europa League,Play-offs,Red Bull Salzburg,Mjallby AIF,3,0,0.0,0.0,,,,,7,2,7,0,69,31,3,H,https://www.qiuxiaoce.com
+1623441,2026-08-27,2026,UEFA Europa League,Play-offs,Aarhus,Benfica,1,3,0.0,1.0,,,8,15,3,8,3,5,42,58,4,A,https://www.qiuxiaoce.com
+1623450,2026-08-27,2026,UEFA Europa League,Play-offs,Red Bull Salzburg,Mjallby AIF,3,0,0.0,0.0,,,16,3,7,2,7,0,69,31,3,H,https://www.qiuxiaoce.com
 1623449,2026-08-27,2026,UEFA Europa League,Play-offs,Omonia Nicosia,St. Truiden,4,2,2.0,1.0,3.35,1.77,,,,,,,,,6,H,https://www.qiuxiaoce.com
-1623447,2026-08-27,2026,UEFA Europa League,Play-offs,Kauno Žalgiris,Beşiktaş,1,0,0.0,0.0,,,,,2,4,2,5,29,71,1,H,https://www.qiuxiaoce.com
-1623446,2026-08-27,2026,UEFA Europa League,Play-offs,Saburtalo,Jagiellonia,1,2,1.0,1.0,,,,,5,5,6,4,64,36,3,A,https://www.qiuxiaoce.com
-1623443,2026-08-27,2026,UEFA Europa League,Play-offs,Ararat-Armenia,Universitatea Craiova,1,0,0.0,0.0,,,,,2,7,3,7,49,51,1,H,https://www.qiuxiaoce.com
+1623447,2026-08-27,2026,UEFA Europa League,Play-offs,Kauno Žalgiris,Beşiktaş,1,0,0.0,0.0,,,8,12,2,4,2,5,29,71,1,H,https://www.qiuxiaoce.com
+1623446,2026-08-27,2026,UEFA Europa League,Play-offs,Saburtalo,Jagiellonia,1,2,1.0,1.0,,,21,17,5,5,6,4,64,36,3,A,https://www.qiuxiaoce.com
+1623443,2026-08-27,2026,UEFA Europa League,Play-offs,Ararat-Armenia,Universitatea Craiova,1,0,0.0,0.0,,,5,22,2,7,3,7,49,51,1,H,https://www.qiuxiaoce.com
 1622631,2026-08-26,2026,UEFA Champions League,Play-offs,Viking,Dinamo Zagreb,3,1,1.0,1.0,,,13,20,8,4,3,5,37,63,4,H,https://www.qiuxiaoce.com
 1622630,2026-08-26,2026,UEFA Champions League,Play-offs,Lyon,Fenerbahçe,1,2,0.0,2.0,,,17,16,6,7,5,7,59,41,3,A,https://www.qiuxiaoce.com
 1622629,2026-08-26,2026,UEFA Champions League,Play-offs,AEK Athens FC,Levski Sofia,4,0,3.0,0.0,,,18,11,7,3,6,3,48,52,4,H,https://www.qiuxiaoce.com
@@ -1345,7 +1401,7 @@ match_id,match_date,season_year,league,round,home_team,away_team,home_score,away
 1552729,2026-08-23,2026,Ligue 1,Regular Season - 1,Angers,Lille,0,2,0.0,2.0,1.99,1.24,20,11,2,8,8,3,57,43,2,A,https://www.qiuxiaoce.com
 1552140,2026-08-23,2026,Eredivisie,Regular Season - 3,PSV Eindhoven,Groningen,5,1,3.0,1.0,4.42,1.09,24,7,12,4,9,4,62,38,6,H,https://www.qiuxiaoce.com
 1563104,2026-08-23,2026,Championship,Regular Season - 2,West Brom,Burnley,3,1,1.0,1.0,1.64,1.15,11,11,7,3,3,5,51,49,4,H,https://www.qiuxiaoce.com
-1554018,2026-08-23,2026,J1 League,Regular Season - 3,Machida Zelvia,Urawa,3,1,1.0,1.0,,,13,22,7,3,1,3,38,62,4,H,https://www.qiuxiaoce.com
+1554018,2026-08-23,2026,J1 League,Regular Season - 3,Machida Zelvia,Urawa,3,1,1.0,1.0,2.05,2.33,13,22,7,3,1,3,38,62,4,H,https://www.qiuxiaoce.com
 1552139,2026-08-23,2026,Eredivisie,Regular Season - 3,GO Ahead Eagles,ADO Den Haag,3,1,1.0,0.0,1.01,0.99,11,16,5,3,5,3,47,53,4,H,https://www.qiuxiaoce.com
 1490418,2026-08-23,2026,Major League Soccer,Regular Season - 21,San Jose Earthquakes,Minnesota United FC,1,5,1.0,3.0,1.72,1.97,11,11,6,7,3,3,59,41,6,A,https://www.qiuxiaoce.com
 1490417,2026-08-23,2026,Major League Soccer,Regular Season - 21,San Diego,Colorado Rapids,3,0,2.0,0.0,1.19,0.43,6,9,4,2,2,3,50,50,3,H,https://www.qiuxiaoce.com
@@ -1404,19 +1460,19 @@ match_id,match_date,season_year,league,round,home_team,away_team,home_score,away
 1570345,2026-08-21,2026,La Liga,Regular Season - 2,Real Betis,Real Sociedad,1,0,0.0,0.0,1.24,1.36,18,9,7,3,4,5,48,52,1,H,https://www.qiuxiaoce.com
 1557367,2026-08-21,2026,Premier League,Regular Season - 1,Arsenal,Coventry,3,0,2.0,0.0,1.88,0.2,20,4,6,1,8,2,64,36,3,H,https://www.qiuxiaoce.com
 1552733,2026-08-21,2026,Ligue 1,Regular Season - 1,Marseille,Strasbourg,4,0,0.0,0.0,1.86,0.18,14,5,8,2,3,4,67,33,4,H,https://www.qiuxiaoce.com
-1556023,2026-08-21,2026,J1 League,Regular Season - 3,FC Tokyo,JEF United Chiba,2,0,0.0,0.0,,,22,7,5,1,5,1,63,37,2,H,https://www.qiuxiaoce.com
-1556024,2026-08-21,2026,J1 League,Regular Season - 3,Kashiwa Reysol,V-varen Nagasaki,4,2,1.0,0.0,,,12,5,5,4,8,2,69,31,6,H,https://www.qiuxiaoce.com
-1623431,2026-08-20,2026,UEFA Europa League,Play-offs,Benfica,Aarhus,3,1,3.0,1.0,,,,,13,1,11,1,71,29,4,H,https://www.qiuxiaoce.com
+1556023,2026-08-21,2026,J1 League,Regular Season - 3,FC Tokyo,JEF United Chiba,2,0,0.0,0.0,2.25,0.67,22,7,5,1,5,1,63,37,2,H,https://www.qiuxiaoce.com
+1556024,2026-08-21,2026,J1 League,Regular Season - 3,Kashiwa Reysol,V-varen Nagasaki,4,2,1.0,0.0,1.26,0.6,12,5,5,4,8,2,69,31,6,H,https://www.qiuxiaoce.com
+1623431,2026-08-20,2026,UEFA Europa League,Play-offs,Benfica,Aarhus,3,1,3.0,1.0,,,32,3,13,1,11,1,71,29,4,H,https://www.qiuxiaoce.com
 1570351,2026-08-20,2026,La Liga,Regular Season - 2,Rayo Vallecano,Alaves,1,1,0.0,0.0,0.43,1.92,8,15,3,3,9,7,48,52,2,D,https://www.qiuxiaoce.com
-1623438,2026-08-20,2026,UEFA Europa League,Play-offs,St. Truiden,Omonia Nicosia,1,0,0.0,0.0,,,,,3,2,6,1,57,43,1,H,https://www.qiuxiaoce.com
+1623438,2026-08-20,2026,UEFA Europa League,Play-offs,St. Truiden,Omonia Nicosia,1,0,0.0,0.0,,,17,8,3,2,6,1,57,43,1,H,https://www.qiuxiaoce.com
 1623437,2026-08-20,2026,UEFA Europa League,Play-offs,OFI,CSKA Sofia,3,0,1.0,0.0,,,,,,,,,,,3,H,https://www.qiuxiaoce.com
 1622632,2026-08-20,2026,UEFA Europa League,Play-offs,FK Crvena Zvezda,Plzen,3,0,1.0,0.0,,,,,7,5,1,2,50,50,3,H,https://www.qiuxiaoce.com
-1627595,2026-08-20,2026,UEFA Europa League,Play-offs,Lech Poznan,FC Thun,7,0,5.0,0.0,,,,,11,4,5,3,56,44,7,H,https://www.qiuxiaoce.com
+1627595,2026-08-20,2026,UEFA Europa League,Play-offs,Lech Poznan,FC Thun,7,0,5.0,0.0,,,20,9,11,4,5,3,56,44,7,H,https://www.qiuxiaoce.com
 1623440,2026-08-20,2026,UEFA Europa League,Play-offs,Universitatea Craiova,Ararat-Armenia,1,1,1.0,1.0,,,,,7,2,8,4,58,42,2,D,https://www.qiuxiaoce.com
-1623439,2026-08-20,2026,UEFA Europa League,Play-offs,Trabzonspor,Ferencvarosi TC,0,1,0.0,1.0,,,,,3,4,7,5,66,34,1,A,https://www.qiuxiaoce.com
+1623439,2026-08-20,2026,UEFA Europa League,Play-offs,Trabzonspor,Ferencvarosi TC,0,1,0.0,1.0,,,24,11,3,4,7,5,66,34,1,A,https://www.qiuxiaoce.com
 1623433,2026-08-20,2026,UEFA Europa League,Play-offs,Egnatia Rrogozhinë,Lillestrom,0,0,0.0,0.0,,,,,4,2,6,4,51,49,0,D,https://www.qiuxiaoce.com
-1623432,2026-08-20,2026,UEFA Europa League,Play-offs,Beşiktaş,Kauno Žalgiris,3,0,2.0,0.0,,,,,6,0,15,2,77,23,3,H,https://www.qiuxiaoce.com
-1623436,2026-08-20,2026,UEFA Europa League,Play-offs,Mjallby AIF,Red Bull Salzburg,0,1,0.0,0.0,,,,,1,8,2,6,31,69,1,A,https://www.qiuxiaoce.com
+1623432,2026-08-20,2026,UEFA Europa League,Play-offs,Beşiktaş,Kauno Žalgiris,3,0,2.0,0.0,,,21,3,6,0,15,2,77,23,3,H,https://www.qiuxiaoce.com
+1623436,2026-08-20,2026,UEFA Europa League,Play-offs,Mjallby AIF,Red Bull Salzburg,0,1,0.0,0.0,,,10,24,1,8,2,6,31,69,1,A,https://www.qiuxiaoce.com
 1623434,2026-08-20,2026,UEFA Europa League,Play-offs,Jagiellonia,Saburtalo,4,0,2.0,0.0,,,,,8,7,4,6,49,51,4,H,https://www.qiuxiaoce.com
 1623435,2026-08-20,2026,UEFA Europa League,Play-offs,Kairat Almaty,Anderlecht,0,3,0.0,3.0,,,,,2,4,2,8,33,67,3,A,https://www.qiuxiaoce.com
 1490405,2026-08-20,2026,Major League Soccer,Regular Season - 20,Portland Timbers,San Diego,3,1,1.0,1.0,1.59,1.41,11,21,5,6,0,7,30,70,4,H,https://www.qiuxiaoce.com
@@ -1488,15 +1544,15 @@ match_id,match_date,season_year,league,round,home_team,away_team,home_score,away
 1563086,2026-08-15,2026,Championship,Regular Season - 1,Charlton,Derby,2,1,0.0,1.0,0.97,1.0,13,15,4,4,5,4,45,55,3,H,https://www.qiuxiaoce.com
 1563085,2026-08-15,2026,Championship,Regular Season - 1,Bristol City,Millwall,0,2,0.0,1.0,0.52,3.4,8,24,0,3,6,6,34,66,2,A,https://www.qiuxiaoce.com
 1563084,2026-08-15,2026,Championship,Regular Season - 1,Bolton,Preston,2,1,2.0,0.0,1.1,1.12,15,10,6,3,5,2,55,45,3,H,https://www.qiuxiaoce.com
-1556022,2026-08-15,2026,J1 League,Regular Season - 2,Avispa Fukuoka,Cerezo Osaka,3,0,2.0,0.0,,,13,7,6,1,4,2,33,67,3,H,https://www.qiuxiaoce.com
-1554016,2026-08-15,2026,J1 League,Regular Season - 2,Vissel Kobe,FC Tokyo,2,2,1.0,1.0,,,11,17,3,4,7,4,58,42,4,D,https://www.qiuxiaoce.com
-1554015,2026-08-15,2026,J1 League,Regular Season - 2,Urawa,Sanfrecce Hiroshima,1,4,1.0,2.0,,,3,26,1,9,1,11,48,52,5,A,https://www.qiuxiaoce.com
-1554011,2026-08-15,2026,J1 League,Regular Season - 2,Kawasaki Frontale,Kyoto Sanga,2,2,1.0,0.0,,,22,13,7,6,6,1,56,44,4,D,https://www.qiuxiaoce.com
-1554009,2026-08-15,2026,J1 League,Regular Season - 2,JEF United Chiba,Machida Zelvia,0,4,0.0,2.0,,,9,17,2,5,2,8,52,48,4,A,https://www.qiuxiaoce.com
-1554013,2026-08-15,2026,J1 League,Regular Season - 2,Fagiano Okayama,V-varen Nagasaki,1,0,0.0,0.0,,,22,3,3,0,5,1,43,57,1,H,https://www.qiuxiaoce.com
-1554014,2026-08-15,2026,J1 League,Regular Season - 2,Shimizu S-pulse,Yokohama F. Marinos,0,1,0.0,0.0,,,11,11,3,3,7,5,39,61,1,A,https://www.qiuxiaoce.com
-1554012,2026-08-15,2026,J1 League,Regular Season - 2,Mito Hollyhock,Gamba Osaka,1,1,1.0,0.0,,,16,20,4,4,9,9,32,68,2,D,https://www.qiuxiaoce.com
-1554010,2026-08-15,2026,J1 League,Regular Season - 2,Kashima,Nagoya Grampus,2,1,1.0,0.0,,,16,13,6,1,3,4,49,51,3,H,https://www.qiuxiaoce.com
+1556022,2026-08-15,2026,J1 League,Regular Season - 2,Avispa Fukuoka,Cerezo Osaka,3,0,2.0,0.0,1.2,0.45,13,7,6,1,4,2,33,67,3,H,https://www.qiuxiaoce.com
+1554016,2026-08-15,2026,J1 League,Regular Season - 2,Vissel Kobe,FC Tokyo,2,2,1.0,1.0,1.47,1.8,11,17,3,4,7,4,58,42,4,D,https://www.qiuxiaoce.com
+1554015,2026-08-15,2026,J1 League,Regular Season - 2,Urawa,Sanfrecce Hiroshima,1,4,1.0,2.0,0.43,5.33,3,26,1,9,1,11,48,52,5,A,https://www.qiuxiaoce.com
+1554011,2026-08-15,2026,J1 League,Regular Season - 2,Kawasaki Frontale,Kyoto Sanga,2,2,1.0,0.0,2.67,1.07,22,13,7,6,6,1,56,44,4,D,https://www.qiuxiaoce.com
+1554009,2026-08-15,2026,J1 League,Regular Season - 2,JEF United Chiba,Machida Zelvia,0,4,0.0,2.0,0.75,1.49,9,17,2,5,2,8,52,48,4,A,https://www.qiuxiaoce.com
+1554013,2026-08-15,2026,J1 League,Regular Season - 2,Fagiano Okayama,V-varen Nagasaki,1,0,0.0,0.0,1.06,0.27,22,3,3,0,5,1,43,57,1,H,https://www.qiuxiaoce.com
+1554014,2026-08-15,2026,J1 League,Regular Season - 2,Shimizu S-pulse,Yokohama F. Marinos,0,1,0.0,0.0,1.38,0.91,11,11,3,3,7,5,39,61,1,A,https://www.qiuxiaoce.com
+1554012,2026-08-15,2026,J1 League,Regular Season - 2,Mito Hollyhock,Gamba Osaka,1,1,1.0,0.0,2.0,2.28,16,20,4,4,9,9,32,68,2,D,https://www.qiuxiaoce.com
+1554010,2026-08-15,2026,J1 League,Regular Season - 2,Kashima,Nagoya Grampus,2,1,1.0,0.0,2.31,1.39,16,13,6,1,3,4,49,51,3,H,https://www.qiuxiaoce.com
 1575463,2026-08-14,2026,Primeira Liga,Regular Season - 2,Sporting CP,Guimaraes,3,2,3.0,0.0,1.12,1.21,5,12,3,3,5,1,56,44,5,H,https://www.qiuxiaoce.com
 1563083,2026-08-14,2026,Championship,Regular Season - 1,Wolves,Blackburn,2,2,1.0,1.0,2.04,0.82,18,10,3,5,5,5,55,45,4,D,https://www.qiuxiaoce.com
 1607181,2026-08-14,2026,UEFA Europa League,3rd Qualifying Round,KI Klaksvik,Lech Poznan,0,5,0.0,1.0,,,11,18,3,9,4,9,46,54,5,A,https://www.qiuxiaoce.com
@@ -1550,9 +1606,9 @@ match_id,match_date,season_year,league,round,home_team,away_team,home_score,away
 1552117,2026-08-07,2026,Eredivisie,Regular Season - 1,Cambuur,Excelsior,0,4,0.0,3.0,0.7,3.35,11,18,2,9,5,8,47,53,4,A,https://www.qiuxiaoce.com
 1554003,2026-08-07,2026,J1 League,Regular Season - 1,Gamba Osaka,Urawa,4,3,2.0,1.0,,,12,19,9,6,5,6,61,39,7,H,https://www.qiuxiaoce.com
 1553999,2026-08-07,2026,J1 League,Regular Season - 1,Yokohama F. Marinos,Kashima,3,4,2.0,1.0,,,11,21,4,5,0,9,32,68,7,A,https://www.qiuxiaoce.com
-1607560,2026-08-06,2026,UEFA Europa League,3rd Qualifying Round,Benfica,Heart Of Midlothian,6,1,3.0,0.0,,,,,11,2,6,2,67,33,7,H,https://www.qiuxiaoce.com
+1607560,2026-08-06,2026,UEFA Europa League,3rd Qualifying Round,Benfica,Heart Of Midlothian,6,1,3.0,0.0,,,24,10,11,2,6,2,67,33,7,H,https://www.qiuxiaoce.com
 1607179,2026-08-06,2026,UEFA Europa League,3rd Qualifying Round,FC Thun,Vikingur Reykjavik,3,0,2.0,0.0,,,,,7,2,6,4,46,54,3,H,https://www.qiuxiaoce.com
-1607565,2026-08-06,2026,UEFA Europa League,3rd Qualifying Round,PAOK,Anderlecht,0,1,0.0,1.0,,,,,2,2,5,1,65,35,1,A,https://www.qiuxiaoce.com
+1607565,2026-08-06,2026,UEFA Europa League,3rd Qualifying Round,PAOK,Anderlecht,0,1,0.0,1.0,,,16,4,2,2,5,1,65,35,1,A,https://www.qiuxiaoce.com
 1607564,2026-08-06,2026,UEFA Europa League,3rd Qualifying Round,Red Bull Salzburg,Pafos,1,0,0.0,0.0,,,,,3,1,13,0,59,41,1,H,https://www.qiuxiaoce.com
 1607562,2026-08-06,2026,UEFA Europa League,3rd Qualifying Round,Hradec Králové,Beşiktaş,0,1,0.0,0.0,0.99,2.33,,,,,,,,,1,A,https://www.qiuxiaoce.com
 1607178,2026-08-06,2026,UEFA Europa League,3rd Qualifying Round,Lincoln Red Imps FC,Omonia Nicosia,1,1,0.0,0.0,,,,,2,6,7,2,45,55,2,D,https://www.qiuxiaoce.com
@@ -1560,7 +1616,7 @@ match_id,match_date,season_year,league,round,home_team,away_team,home_score,away
 1607563,2026-08-06,2026,UEFA Europa League,3rd Qualifying Round,Maccabi Tel Aviv,CSKA Sofia,0,3,0.0,2.0,,,,,,,,,,,3,A,https://www.qiuxiaoce.com
 1598830,2026-08-06,2026,UEFA Europa League,3rd Qualifying Round,Jagiellonia,Rangers,2,1,2.0,1.0,,,,,7,3,1,5,42,58,3,H,https://www.qiuxiaoce.com
 1607175,2026-08-06,2026,UEFA Europa League,3rd Qualifying Round,KuPS,Universitatea Craiova,1,1,0.0,1.0,,,,,1,4,6,2,53,47,2,D,https://www.qiuxiaoce.com
-1607561,2026-08-05,2026,UEFA Europa League,3rd Qualifying Round,Ferencvarosi TC,Gornik Zabrze,1,0,0.0,0.0,,,,,,,,,,,1,H,https://www.qiuxiaoce.com
+1607561,2026-08-05,2026,UEFA Europa League,3rd Qualifying Round,Ferencvarosi TC,Gornik Zabrze,1,0,0.0,0.0,,,15,10,4,1,2,5,55,45,1,H,https://www.qiuxiaoce.com
 1607165,2026-08-05,2026,UEFA Champions League,3rd Qualifying Round,Fenerbahçe,Sturm Graz,2,0,2.0,0.0,,,17,5,10,1,4,2,72,28,2,H,https://www.qiuxiaoce.com
 1607163,2026-08-05,2026,UEFA Champions League,3rd Qualifying Round,Aarhus,Sabah FA,2,1,1.0,0.0,,,10,15,3,4,6,5,44,56,3,H,https://www.qiuxiaoce.com
 1607176,2026-08-04,2026,UEFA Europa League,3rd Qualifying Round,Larne,Saburtalo,0,0,0.0,0.0,,,,,,,,,,,0,D,https://www.qiuxiaoce.com
@@ -1588,10 +1644,10 @@ match_id,match_date,season_year,league,round,home_team,away_team,home_score,away
 1490363,2026-08-01,2026,Major League Soccer,Regular Season - 18,Vancouver Whitecaps,Los Angeles FC,1,1,0.0,1.0,2.19,0.26,20,5,5,1,10,1,62,38,2,D,https://www.qiuxiaoce.com
 1490362,2026-08-01,2026,Major League Soccer,Regular Season - 18,Inter Miami,Columbus Crew,2,2,2.0,1.0,,,12,13,4,3,5,2,53,47,4,D,https://www.qiuxiaoce.com
 1490361,2026-07-31,2026,Major League Soccer,Regular Season - 18,New York City FC,Toronto FC,1,1,1.0,1.0,2.21,1.16,16,13,5,5,3,2,49,51,2,D,https://www.qiuxiaoce.com
-1556548,2026-07-30,2026,UEFA Europa League,2nd Qualifying Round,Benfica,FC ST. Gallen,5,0,1.0,0.0,,,,,,,,,,,5,H,https://www.qiuxiaoce.com
-1593525,2026-07-30,2026,UEFA Europa League,2nd Qualifying Round,Ferencvarosi TC,Twente,2,2,1.0,0.0,,,,,,,,,,,4,D,https://www.qiuxiaoce.com
+1556548,2026-07-30,2026,UEFA Europa League,2nd Qualifying Round,Benfica,FC ST. Gallen,5,0,1.0,0.0,,,25,11,10,3,9,2,72,28,5,H,https://www.qiuxiaoce.com
+1593525,2026-07-30,2026,UEFA Europa League,2nd Qualifying Round,Ferencvarosi TC,Twente,2,2,1.0,0.0,,,6,21,3,4,2,8,32,68,4,D,https://www.qiuxiaoce.com
 1556547,2026-07-30,2026,UEFA Europa League,2nd Qualifying Round,Anderlecht,Hammarby FF,3,1,0.0,1.0,,,21,6,6,3,10,0,,,4,H,https://www.qiuxiaoce.com
-1593528,2026-07-30,2026,UEFA Europa League,2nd Qualifying Round,PAOK,Dynamo Kyiv,2,0,1.0,0.0,,,,,,,,,,,2,H,https://www.qiuxiaoce.com
+1593528,2026-07-30,2026,UEFA Europa League,2nd Qualifying Round,PAOK,Dynamo Kyiv,2,0,1.0,0.0,,,13,13,6,4,2,6,47,53,2,H,https://www.qiuxiaoce.com
 1556550,2026-07-30,2026,UEFA Europa League,2nd Qualifying Round,Hradec Králové,Tromso,3,1,1.0,1.0,,,,,,,,,,,4,H,https://www.qiuxiaoce.com
 1556549,2026-07-30,2026,UEFA Europa League,2nd Qualifying Round,FC Midtjylland,Beşiktaş,0,2,0.0,0.0,1.28,1.88,,,,,,,,,2,A,https://www.qiuxiaoce.com
 1593526,2026-07-30,2026,UEFA Europa League,2nd Qualifying Round,Maccabi Tel Aviv,Sheriff Tiraspol,1,0,1.0,0.0,,,,,,,,,,,1,H,https://www.qiuxiaoce.com
@@ -1621,11 +1677,11 @@ match_id,match_date,season_year,league,round,home_team,away_team,home_score,away
 1490346,2026-07-25,2026,Major League Soccer,Regular Season - 19,Columbus Crew,FC Cincinnati,2,1,2.0,1.0,2.35,1.06,13,12,6,5,4,5,53,47,3,H,https://www.qiuxiaoce.com
 1490352,2026-07-25,2026,Major League Soccer,Regular Season - 19,New York Red Bulls,Charlotte,0,2,0.0,2.0,2.38,0.62,24,4,6,3,6,1,65,35,2,A,https://www.qiuxiaoce.com
 1593520,2026-07-23,2026,UEFA Europa League,2nd Qualifying Round,HNK Hajduk Split,Pafos,2,0,0.0,0.0,,,8,14,2,3,8,7,45,55,2,H,https://www.qiuxiaoce.com
-1593523,2026-07-23,2026,UEFA Europa League,2nd Qualifying Round,Twente,Ferencvarosi TC,1,2,1.0,1.0,,,,,,,,,,,3,A,https://www.qiuxiaoce.com
-1556545,2026-07-23,2026,UEFA Europa League,2nd Qualifying Round,FC ST. Gallen,Benfica,2,1,1.0,1.0,,,,,,,,,,,3,H,https://www.qiuxiaoce.com
-1556543,2026-07-23,2026,UEFA Europa League,2nd Qualifying Round,Beşiktaş,FC Midtjylland,1,0,1.0,0.0,,,,,,,,,,,1,H,https://www.qiuxiaoce.com
+1593523,2026-07-23,2026,UEFA Europa League,2nd Qualifying Round,Twente,Ferencvarosi TC,1,2,1.0,1.0,,,18,9,7,2,4,4,69,31,3,A,https://www.qiuxiaoce.com
+1556545,2026-07-23,2026,UEFA Europa League,2nd Qualifying Round,FC ST. Gallen,Benfica,2,1,1.0,1.0,,,17,14,6,4,6,5,38,62,3,H,https://www.qiuxiaoce.com
+1556543,2026-07-23,2026,UEFA Europa League,2nd Qualifying Round,Beşiktaş,FC Midtjylland,1,0,1.0,0.0,,,28,5,7,1,5,2,75,25,1,H,https://www.qiuxiaoce.com
 1593522,2026-07-23,2026,UEFA Europa League,2nd Qualifying Round,Sheriff Tiraspol,Maccabi Tel Aviv,0,5,0.0,2.0,,,,,,,,,,,5,A,https://www.qiuxiaoce.com
-1593519,2026-07-23,2026,UEFA Europa League,2nd Qualifying Round,Dynamo Kyiv,PAOK,2,3,1.0,2.0,,,,,,,,,,,5,A,https://www.qiuxiaoce.com
+1593519,2026-07-23,2026,UEFA Europa League,2nd Qualifying Round,Dynamo Kyiv,PAOK,2,3,1.0,2.0,,,10,14,5,7,2,1,58,42,5,A,https://www.qiuxiaoce.com
 1556546,2026-07-23,2026,UEFA Europa League,2nd Qualifying Round,Tromso,Hradec Králové,0,1,0.0,0.0,,,,,,,,,,,1,A,https://www.qiuxiaoce.com
 1556544,2026-07-23,2026,UEFA Europa League,2nd Qualifying Round,Hammarby FF,Anderlecht,1,1,0.0,1.0,,,,,,,,,,,2,D,https://www.qiuxiaoce.com
 1593521,2026-07-23,2026,UEFA Europa League,2nd Qualifying Round,Qarabag,CSKA Sofia,0,0,0.0,0.0,,,,,,,,,,,0,D,https://www.qiuxiaoce.com
@@ -1665,7 +1721,7 @@ match_id,match_date,season_year,league,round,home_team,away_team,home_score,away
 1490325,2026-07-16,2026,Major League Soccer,Regular season,CF Montreal,Toronto FC,0,0,0.0,0.0,0.94,0.44,14,8,3,0,9,3,50,50,0,D,https://www.qiuxiaoce.com
 1554451,2026-07-16,2026,UEFA Europa League,1st Qualifying Round,Vestri,Qarabag,0,3,0.0,2.0,,,,,,,,,,,3,A,https://www.qiuxiaoce.com
 1554452,2026-07-16,2026,UEFA Europa League,1st Qualifying Round,Žilina,HNK Hajduk Split,2,1,0.0,1.0,,,,,,,,,,,3,H,https://www.qiuxiaoce.com
-1554449,2026-07-16,2026,UEFA Europa League,1st Qualifying Round,Ferencvarosi TC,Vojvodina,3,0,2.0,0.0,,,,,,,,,,,3,H,https://www.qiuxiaoce.com
+1554449,2026-07-16,2026,UEFA Europa League,1st Qualifying Round,Ferencvarosi TC,Vojvodina,3,0,2.0,0.0,,,16,8,4,3,6,2,67,33,3,H,https://www.qiuxiaoce.com
 1554447,2026-07-16,2026,UEFA Europa League,1st Qualifying Round,Aluminij,Sheriff Tiraspol,0,1,0.0,1.0,,,,,,,,,,,1,A,https://www.qiuxiaoce.com
 1554448,2026-07-16,2026,UEFA Europa League,1st Qualifying Round,Derry City,CSKA Sofia,1,2,0.0,0.0,,,,,,,,,,,3,A,https://www.qiuxiaoce.com
 1554386,2026-07-15,2026,UEFA Champions League,1st Qualifying Round,Sutjeska,Kairat Almaty,0,2,0.0,0.0,,,,,0,0,,,49,51,2,A,https://www.qiuxiaoce.com
@@ -3943,59 +3999,3 @@ match_id,match_date,season_year,league,round,home_team,away_team,home_score,away
 1379095,2025-11-30,2025,Premier League,Regular Season - 13,Nottingham Forest,Brighton,0,2,0.0,1.0,0.89,2.0,19,17,3,6,9,2,52,48,2,A,https://www.qiuxiaoce.com
 1379089,2025-11-30,2025,Premier League,Regular Season - 13,Aston Villa,Wolves,1,0,0.0,0.0,0.94,0.49,16,9,6,4,7,3,52,48,1,H,https://www.qiuxiaoce.com
 1387823,2025-11-30,2025,Ligue 1,Regular Season - 14,Strasbourg,Stade Brestois 29,1,2,1.0,0.0,0.8,1.05,14,7,6,4,5,0,57,43,3,A,https://www.qiuxiaoce.com
-1377992,2025-11-30,2025,Serie A,Regular Season - 13,Pisa,Inter,0,2,0.0,0.0,1.72,2.0,10,14,2,3,4,6,40,60,2,A,https://www.qiuxiaoce.com
-1380990,2025-11-30,2025,Eredivisie,Regular Season - 14,Telstar,Feyenoord,1,2,0.0,1.0,1.55,1.55,12,11,2,7,3,5,49,51,3,A,https://www.qiuxiaoce.com
-1380986,2025-11-30,2025,Eredivisie,Regular Season - 14,GO Ahead Eagles,Utrecht,2,2,0.0,1.0,0.89,1.8,11,17,6,8,4,3,59,41,4,D,https://www.qiuxiaoce.com
-1390957,2025-11-30,2025,La Liga,Regular Season - 14,Real Sociedad,Villarreal,2,3,0.0,1.0,1.02,1.51,18,10,7,5,8,2,60,40,5,A,https://www.qiuxiaoce.com
-1379092,2025-11-30,2025,Premier League,Regular Season - 13,Crystal Palace,Manchester United,1,2,1.0,0.0,1.83,1.19,14,14,3,6,4,4,44,56,3,A,https://www.qiuxiaoce.com
-1377989,2025-11-30,2025,Serie A,Regular Season - 13,Lecce,Torino,2,1,2.0,0.0,1.0,1.74,10,15,2,6,6,6,48,52,3,H,https://www.qiuxiaoce.com
-1380988,2025-11-30,2025,Eredivisie,Regular Season - 14,PSV Eindhoven,FC Volendam,3,0,2.0,0.0,1.7,0.53,19,10,8,2,5,2,62,38,3,H,https://www.qiuxiaoce.com
-1324321,2025-11-30,2025,J1 League,Regular Season - 37,Avispa Fukuoka,Gamba Osaka,1,0,0.0,0.0,1.09,0.4,18,8,6,1,4,4,31,69,1,H,https://www.qiuxiaoce.com
-1324320,2025-11-30,2025,J1 League,Regular Season - 37,Fagiano Okayama,Urawa,0,1,0.0,0.0,0.75,1.05,11,11,3,5,1,4,39,61,1,A,https://www.qiuxiaoce.com
-1324319,2025-11-30,2025,J1 League,Regular Season - 37,Vissel Kobe,FC Tokyo,0,0,0.0,0.0,1.39,0.39,19,4,5,1,8,1,65,35,0,D,https://www.qiuxiaoce.com
-1324318,2025-11-30,2025,J1 League,Regular Season - 37,Albirex Niigata,Kashiwa Reysol,1,3,0.0,2.0,0.2,2.74,5,14,1,8,3,2,44,56,4,A,https://www.qiuxiaoce.com
-1324317,2025-11-30,2025,J1 League,Regular Season - 37,Shonan Bellmare,Shimizu S-pulse,1,0,1.0,0.0,0.82,0.59,6,16,2,3,3,5,36,64,1,H,https://www.qiuxiaoce.com
-1324316,2025-11-30,2025,J1 League,Regular Season - 37,Yokohama FC,Kyoto Sanga,0,1,0.0,1.0,1.3,0.43,15,7,2,1,2,4,49,51,1,A,https://www.qiuxiaoce.com
-1324315,2025-11-30,2025,J1 League,Regular Season - 37,Yokohama F. Marinos,Cerezo Osaka,3,1,1.0,1.0,2.11,1.81,13,14,9,5,4,6,38,62,4,H,https://www.qiuxiaoce.com
-1324314,2025-11-30,2025,J1 League,Regular Season - 37,Kawasaki Frontale,Sanfrecce Hiroshima,1,2,1.0,1.0,1.12,2.69,9,23,3,6,3,6,46,54,3,A,https://www.qiuxiaoce.com
-1324313,2025-11-30,2025,J1 League,Regular Season - 37,Machida Zelvia,Nagoya Grampus,3,1,1.0,0.0,1.72,2.05,10,18,6,3,3,4,38,62,4,H,https://www.qiuxiaoce.com
-1324312,2025-11-30,2025,J1 League,Regular Season - 37,Tokyo Verdy,Kashima,0,1,0.0,0.0,0.69,2.59,11,12,3,5,6,4,55,45,1,A,https://www.qiuxiaoce.com
-1488222,2025-11-30,2025,Major League Soccer,Semi-finals,San Diego,Vancouver Whitecaps,1,3,0.0,3.0,1.05,3.0,12,11,5,8,5,1,54,46,4,A,https://www.qiuxiaoce.com
-1488202,2025-11-29,2025,Major League Soccer,Semi-finals,Inter Miami,New York City FC,5,1,2.0,1.0,2.34,0.44,12,5,6,4,5,2,49,51,6,H,https://www.qiuxiaoce.com
-1396339,2025-11-29,2025,Primeira Liga,Regular Season - 12,GIL Vicente,Tondela,0,1,0.0,1.0,0.49,1.16,15,5,2,2,12,3,65,35,1,A,https://www.qiuxiaoce.com
-1387819,2025-11-29,2025,Ligue 1,Regular Season - 14,Marseille,Toulouse,2,2,0.0,1.0,1.8,0.7,20,6,5,4,9,1,77,23,4,D,https://www.qiuxiaoce.com
-1390949,2025-11-29,2025,La Liga,Regular Season - 14,Atletico Madrid,Oviedo,2,0,2.0,0.0,1.93,0.93,14,12,8,1,7,2,52,48,2,H,https://www.qiuxiaoce.com
-1380987,2025-11-29,2025,Eredivisie,Regular Season - 14,NEC Nijmegen,Sparta Rotterdam,3,1,2.0,0.0,2.78,1.7,19,13,7,5,7,6,52,48,4,H,https://www.qiuxiaoce.com
-1379097,2025-11-29,2025,Premier League,Regular Season - 13,Tottenham,Fulham,1,2,0.0,2.0,0.86,0.45,14,7,2,3,8,2,63,37,3,A,https://www.qiuxiaoce.com
-1377990,2025-11-29,2025,Serie A,Regular Season - 13,AC Milan,Lazio,1,0,0.0,0.0,1.47,0.68,16,9,4,4,1,4,46,54,1,H,https://www.qiuxiaoce.com
-1396341,2025-11-29,2025,Primeira Liga,Regular Season - 12,Nacional,Benfica,1,2,0.0,0.0,0.5,2.68,6,31,2,8,2,11,30,70,3,A,https://www.qiuxiaoce.com
-1387822,2025-11-29,2025,Ligue 1,Regular Season - 14,Paris FC,Auxerre,1,1,1.0,1.0,1.8,1.11,11,11,2,3,4,3,55,45,2,D,https://www.qiuxiaoce.com
-1380989,2025-11-29,2025,Eredivisie,Regular Season - 14,Fortuna Sittard,Heracles,1,1,1.0,0.0,1.84,0.57,23,6,5,3,11,3,57,43,2,D,https://www.qiuxiaoce.com
-1390954,2025-11-29,2025,La Liga,Regular Season - 14,Levante,Athletic Club,0,2,0.0,2.0,1.3,2.9,11,14,4,4,4,2,56,44,2,A,https://www.qiuxiaoce.com
-1388407,2025-11-29,2025,Bundesliga,Regular Season - 12,Bayer Leverkusen,Borussia Dortmund,1,2,0.0,1.0,0.82,0.99,14,7,4,4,10,3,63,37,3,A,https://www.qiuxiaoce.com
-1379093,2025-11-29,2025,Premier League,Regular Season - 13,Everton,Newcastle,1,4,0.0,3.0,0.99,1.91,10,13,2,8,8,7,49,51,5,A,https://www.qiuxiaoce.com
-1377988,2025-11-29,2025,Serie A,Regular Season - 13,Juventus,Cagliari,2,1,2.0,1.0,1.71,0.54,14,5,6,3,1,6,57,43,3,H,https://www.qiuxiaoce.com
-1387821,2025-11-29,2025,Ligue 1,Regular Season - 14,Monaco,Paris Saint Germain,1,0,0.0,0.0,0.52,1.33,10,17,5,4,4,4,43,57,1,H,https://www.qiuxiaoce.com
-1396340,2025-11-29,2025,Primeira Liga,Regular Season - 12,Moreirense,Famalicao,2,2,0.0,1.0,1.19,1.82,11,17,6,8,5,4,49,51,4,D,https://www.qiuxiaoce.com
-1396337,2025-11-29,2025,Primeira Liga,Regular Season - 12,Casa Pia,Alverca,0,2,0.0,0.0,0.17,1.41,5,10,0,5,6,4,52,48,2,A,https://www.qiuxiaoce.com
-1380985,2025-11-29,2025,Eredivisie,Regular Season - 14,Excelsior,NAC Breda,1,0,1.0,0.0,0.94,1.57,6,22,2,3,1,6,43,57,1,H,https://www.qiuxiaoce.com
-1390950,2025-11-29,2025,La Liga,Regular Season - 14,Barcelona,Alaves,3,1,2.0,1.0,2.24,1.59,18,9,6,2,5,4,69,31,4,H,https://www.qiuxiaoce.com
-1386766,2025-11-29,2025,Championship,Regular Season - 18,Sheffield Wednesday,Preston,2,3,2.0,1.0,2.33,0.94,12,7,5,5,3,3,57,43,5,A,https://www.qiuxiaoce.com
-1386765,2025-11-29,2025,Championship,Regular Season - 18,West Brom,Swansea,3,2,0.0,2.0,1.73,0.21,26,3,10,2,7,1,65,35,5,H,https://www.qiuxiaoce.com
-1386764,2025-11-29,2025,Championship,Regular Season - 18,Middlesbrough,Derby,2,1,0.0,1.0,1.53,0.92,21,6,4,1,9,8,74,26,3,H,https://www.qiuxiaoce.com
-1386762,2025-11-29,2025,Championship,Regular Season - 18,Coventry,Charlton,3,1,2.0,1.0,2.43,0.66,26,9,8,4,6,3,69,31,4,H,https://www.qiuxiaoce.com
-1386759,2025-11-29,2025,Championship,Regular Season - 18,Millwall,Southampton,3,2,0.0,0.0,1.83,1.2,21,11,7,8,9,6,41,59,5,H,https://www.qiuxiaoce.com
-1386758,2025-11-29,2025,Championship,Regular Season - 18,Wrexham,Blackburn,1,1,0.0,1.0,1.65,0.94,16,12,2,3,7,7,65,35,2,D,https://www.qiuxiaoce.com
-1386755,2025-11-29,2025,Championship,Regular Season - 18,Norwich,QPR,3,1,3.0,1.0,1.31,1.02,17,12,6,5,9,6,56,44,4,H,https://www.qiuxiaoce.com
-1379096,2025-11-29,2025,Premier League,Regular Season - 13,Sunderland,Bournemouth,3,2,1.0,2.0,1.28,1.7,12,18,6,6,6,3,43,57,5,H,https://www.qiuxiaoce.com
-1379094,2025-11-29,2025,Premier League,Regular Season - 13,Manchester City,Leeds,3,2,2.0,0.0,3.1,1.54,18,9,9,4,8,1,62,38,5,H,https://www.qiuxiaoce.com
-1379090,2025-11-29,2025,Premier League,Regular Season - 13,Brentford,Burnley,3,1,0.0,0.0,3.06,0.95,14,6,4,2,5,6,52,48,4,H,https://www.qiuxiaoce.com
-1388415,2025-11-29,2025,Bundesliga,Regular Season - 12,Werder Bremen,1. FC Köln,1,1,1.0,0.0,1.17,0.94,17,10,4,2,4,0,49,51,2,D,https://www.qiuxiaoce.com
-1388414,2025-11-29,2025,Bundesliga,Regular Season - 12,Union Berlin,1. FC Heidenheim,1,2,1.0,0.0,0.97,0.59,9,10,2,2,5,5,43,57,3,A,https://www.qiuxiaoce.com
-1388413,2025-11-29,2025,Bundesliga,Regular Season - 12,1899 Hoffenheim,FC Augsburg,3,0,3.0,0.0,2.08,0.96,17,14,3,4,7,2,60,40,3,H,https://www.qiuxiaoce.com
-1388408,2025-11-29,2025,Bundesliga,Regular Season - 12,Bayern München,FC St. Pauli,3,1,1.0,1.0,2.3,0.64,19,10,4,1,10,2,80,20,4,H,https://www.qiuxiaoce.com
-1377991,2025-11-29,2025,Serie A,Regular Season - 13,Parma,Udinese,0,2,0.0,1.0,0.96,1.74,17,14,2,5,5,9,51,49,2,A,https://www.qiuxiaoce.com
-1377987,2025-11-29,2025,Serie A,Regular Season - 13,Genoa,Hellas Verona,2,1,1.0,1.0,1.75,2.28,15,13,4,5,2,3,60,40,3,H,https://www.qiuxiaoce.com
-1390955,2025-11-29,2025,La Liga,Regular Season - 14,Mallorca,Osasuna,2,2,0.0,0.0,1.49,1.09,7,14,4,2,2,8,52,48,4,D,https://www.qiuxiaoce.com
-1386763,2025-11-29,2025,Championship,Regular Season - 18,Stoke City,Hull City,1,2,1.0,0.0,0.8,1.18,12,11,7,6,7,8,56,44,3,A,https://www.qiuxiaoce.com
-1386760,2025-11-29,2025,Championship,Regular Season - 18,Leicester,Sheffield Utd,2,3,0.0,3.0,0.98,0.97,15,13,3,3,4,9,69,31,5,A,https://www.qiuxiaoce.com
